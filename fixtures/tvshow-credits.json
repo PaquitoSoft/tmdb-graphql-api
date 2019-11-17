@@ -1,0 +1,87 @@
+{
+    "cast": [
+        {
+            "character": "Oliver Queen",
+            "credit_id": "5256ce3819c2956ff608293d",
+            "id": 76110,
+            "name": "Stephen Amell",
+            "gender": 2,
+            "profile_path": "/kTe4RYfqFze7N6HX1HEnNfHBZ2w.jpg",
+            "order": 0
+        },
+        {
+            "character": "John Diggle",
+            "credit_id": "5256ce3819c2956ff608298b",
+            "id": 116774,
+            "name": "David Ramsey",
+            "gender": 2,
+            "profile_path": "/bZWO7WfBYI8iojTFozzqN2X3RWL.jpg",
+            "order": 1
+        },
+        {
+            "character": "Laurel Lance / Black Canary",
+            "credit_id": "5dc5775aab1bc70018ff90e5",
+            "id": 55775,
+            "name": "Katie Cassidy",
+            "gender": 1,
+            "profile_path": "/lRhzzdmt29n8PDi63QX5MLPAUFz.jpg",
+            "order": 2
+        },
+        {
+            "character": "Rene Ramirez / Wild Dog",
+            "credit_id": "584cb360c3a3682aca00535e",
+            "id": 53184,
+            "name": "Rick Gonzalez",
+            "gender": 2,
+            "profile_path": "/kOvmhXFdj8fH7Q1WgMc53peBkv4.jpg",
+            "order": 3
+        },
+        {
+            "character": "Dinah Drake / Black Canary",
+            "credit_id": "5d379deb60c51d1f48810e55",
+            "id": 576474,
+            "name": "Juliana Harkavy",
+            "gender": 1,
+            "profile_path": "/6AyzuqtaPKG8kyiFTdjQ21kXY1b.jpg",
+            "order": 4
+        },
+        {
+            "character": "William \"Will\" Clayton",
+            "credit_id": "5d379bf4e54d5d20b3dccea1",
+            "id": 33702,
+            "name": "Ben Lewis",
+            "gender": 0,
+            "profile_path": "/4vRrNkaht7Sklg5XJAUPMciUHOU.jpg",
+            "order": 5
+        },
+        {
+            "character": "Mia Smoak / Blackstar",
+            "credit_id": "5d379bcdab68497d7d847fe1",
+            "id": 968006,
+            "name": "Katherine McNamara",
+            "gender": 1,
+            "profile_path": "/9kBsMW17rUk9O5BrBONCQUtSi7B.jpg",
+            "order": 6
+        },
+        {
+            "character": "Connor Hawke",
+            "credit_id": "5d379dfaab68490012877c25",
+            "id": 1581190,
+            "name": "Joseph David-Jones",
+            "gender": 2,
+            "profile_path": "/VXgR1NWyLITIS0TEocGFiesfaz.jpg",
+            "order": 7
+        },
+        {
+            "character": "Mar Novu / The Monitor",
+            "credit_id": "5da8c0516e44bf001b04787f",
+            "id": 1094385,
+            "name": "LaMonica Garrett",
+            "gender": 2,
+            "profile_path": "/1v6DB2sqJYAuzOBD0ngSwuIBl1z.jpg",
+            "order": 8
+        }
+    ],
+    "crew": [],
+    "id": 1412
+}

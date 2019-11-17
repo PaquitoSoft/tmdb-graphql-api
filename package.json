@@ -1,0 +1,21 @@
+{
+  "name": "tmdb-graphql",
+  "version": "1.0.0",
+  "description": "The Movie DB GraphQL server",
+  "main": "index.js",
+  "scripts": {
+    "debug": "nodemon ./src/server.js --inspect",
+    "start": "node ./src/server.js"
+  },
+  "author": "Paquitosoft",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.9.9",
+    "dotenv": "^8.2.0",
+    "graphql": "^14.5.8",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}

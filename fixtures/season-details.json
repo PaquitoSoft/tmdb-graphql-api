@@ -1,0 +1,447 @@
+{
+  "_id": "581ae9289251412ac700198a",
+  "air_date": "2019-11-03",
+  "episodes": [
+    {
+	"air_date": "2019-11-03",
+	"episode_number": 1,
+	"id": 1858817,
+	"name": "Lyra's Jordan",
+	"overview": "Orphan Lyra Belacqua's world is turned upside-down by her long-absent uncle's return from the north, while the glamorous Mrs Coulter visits Jordan College with a proposition.",
+	"production_code": "",
+	"season_number": 1,
+	"show_id": 68507,
+      "still_path": "/m2bRTb2YGzNZDCB5X4w2r6S8p8S.jpg",
+	"vote_average": 8.5,
+	"vote_count": 6,
+      "crew": [
+        {
+          "id": 70500,
+          "credit_id": "5dbeb931efe37c001582cf9d",
+          "name": "Tom Hooper",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/pyg4rXPjTLKkUU88hImzKYIcuW0.jpg"
+        },
+        {
+          "id": 207132,
+          "credit_id": "5dbebbd79638640014e36835",
+          "name": "Jack Thorne",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": "/5R58iFwzHaYLxqhl9wQXpS0JnT3.jpg"
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 1211852,
+          "name": "Ian Gelder",
+          "credit_id": "5dc42b62470ead00138df12c",
+          "character": "Charles",
+          "order": 4,
+          "gender": 2,
+          "profile_path": "/j2XFWivkKcMVKrsyyT2CadqR9YL.jpg"
+        },
+        {
+          "id": 108494,
+          "name": "Philip Goldacre",
+          "credit_id": "5dc42b7899259c00157bbe7c",
+          "character": "Sub-Rector",
+          "order": 5,
+          "gender": 2,
+          "profile_path": "/zzKHPtT3ShBvrrk6rSvGkuR9ntc.jpg"
+        },
+        {
+          "id": 112236,
+          "name": "Mat Fraser",
+          "credit_id": "5dc42bb06818880019bbe89b",
+          "character": "Raymond Van Gerrit",
+          "order": 6,
+          "gender": 0,
+          "profile_path": "/rF996Z979GJsjQTc3ElKna3vni2.jpg"
+        },
+        {
+          "id": 1097456,
+          "name": "Richard Cunningham",
+          "credit_id": "5dc42bcc470ead00158e0eee",
+          "character": "Chaplain",
+          "order": 7,
+          "gender": 0,
+          "profile_path": "/jGo9wrCxV81pgNVkzO2B1Wnuett.jpg"
+        },
+        {
+          "id": 3568,
+          "name": "Patrick Godfrey",
+          "credit_id": "5dc42c0e7d2bc100113d9b30",
+          "character": "Butler",
+          "order": 8,
+          "gender": 2,
+          "profile_path": "/n6q70F8UE4VSSHAjBlx3xBMqxY2.jpg"
+        },
+        {
+          "id": 2451462,
+          "name": "Libby Rodliffe",
+          "credit_id": "5dc42c538d22fc00143e2364",
+          "character": "Lyuba (voice)",
+          "order": 9,
+          "gender": 0,
+          "profile_path": "/76cOII2D0vDRZNq9D0q06UjNH3f.jpg"
+        },
+        {
+          "id": 15737,
+          "name": "Helen McCrory",
+          "credit_id": "5dc45bbc6818880010bc2a19",
+          "character": "Stelmaria (voice)",
+          "order": 11,
+          "gender": 1,
+          "profile_path": "/jKBqL7Y6ToKRKSQ9kkgo7rOjMHS.jpg"
+        },
+        {
+          "id": 6969,
+          "name": "Geoff Bell",
+          "credit_id": "5dc42abe6f8d950013c057e1",
+          "character": "Jack Verhoeven",
+          "order": 12,
+          "gender": 2,
+          "profile_path": "/q9vQN6JJxAQLtR8E6s8ehkPAzto.jpg"
+        },
+        {
+          "id": 1537684,
+          "name": "Simon Manyonda",
+          "credit_id": "5dc42ad399259c00157bbd37",
+          "character": "Benjamin De Ruyter",
+          "order": 12,
+          "gender": 0,
+          "profile_path": "/wYUPGKIw3n29A464O77vAHc5CAW.jpg"
+        },
+        {
+          "id": 1538851,
+          "name": "Kit Connor",
+          "credit_id": "5dc45b907d2bc100173e5ae6",
+          "character": "Pantalaimon (voice)",
+          "order": 12,
+          "gender": 0,
+          "profile_path": "/k28TBl4QBX2fqTOOb6MBXpNy5QI.jpg"
+        },
+        {
+          "id": 2211266,
+          "name": "Tyler Howitt",
+          "credit_id": "5dc42a15470ead00138def58",
+          "character": "Billy Costa",
+          "order": 13,
+          "gender": 0,
+          "profile_path": "/uYxwVv1u6bWYukatuzwkjI9O5vx.jpg"
+        },
+        {
+          "id": 2457346,
+          "name": "Eloise Little",
+          "credit_id": "5dcc64f2b76cbb001372a548",
+          "character": "Salcilia (voice)",
+          "order": 15,
+          "gender": 0,
+          "profile_path": "/6laNohRbCWjKLdQ9z35XuP3UcL3.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2019-11-10",
+      "episode_number": 2,
+      "id": 1970989,
+      "name": "The Idea of North",
+      "overview": "Lyra starts her new life in London, determined to find Roger with Mrs Coulter’s help. The Gyptians continue their search for the missing children and the elusive Gobblers.",
+      "production_code": "",
+      "season_number": 1,
+      "show_id": 68507,
+      "still_path": "/21FN51Bdicgfc5fPjtXlzMOksld.jpg",
+      "vote_average": 8.5,
+      "vote_count": 4,
+      "crew": [
+        {
+          "id": 70500,
+          "credit_id": "5dbeb931efe37c001582cf9d",
+          "name": "Tom Hooper",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/pyg4rXPjTLKkUU88hImzKYIcuW0.jpg"
+        },
+        {
+          "id": 207132,
+          "credit_id": "5dbebbd79638640014e36835",
+          "name": "Jack Thorne",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": "/5R58iFwzHaYLxqhl9wQXpS0JnT3.jpg"
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 6969,
+          "name": "Geoff Bell",
+          "credit_id": "5dc42abe6f8d950013c057e1",
+          "character": "Jack Verhoeven",
+          "order": 12,
+          "gender": 2,
+          "profile_path": "/q9vQN6JJxAQLtR8E6s8ehkPAzto.jpg"
+        },
+        {
+          "id": 1537684,
+          "name": "Simon Manyonda",
+          "credit_id": "5dc42ad399259c00157bbd37",
+          "character": "Benjamin De Ruyter",
+          "order": 12,
+          "gender": 0,
+          "profile_path": "/wYUPGKIw3n29A464O77vAHc5CAW.jpg"
+        },
+        {
+          "id": 1538851,
+          "name": "Kit Connor",
+          "credit_id": "5dc45b907d2bc100173e5ae6",
+          "character": "Pantalaimon (voice)",
+          "order": 12,
+          "gender": 0,
+          "profile_path": "/k28TBl4QBX2fqTOOb6MBXpNy5QI.jpg"
+        },
+        {
+          "id": 589652,
+          "name": "Robert Emms",
+          "credit_id": "5dcc647b79a1c30017454e39",
+          "character": "Thomas",
+          "order": 12,
+          "gender": 2,
+          "profile_path": "/4wdONknsZLWHpH2NSyk0FyPPO8A.jpg"
+        },
+        {
+          "id": 2211266,
+          "name": "Tyler Howitt",
+          "credit_id": "5dc42a15470ead00138def58",
+          "character": "Billy Costa",
+          "order": 13,
+          "gender": 0,
+          "profile_path": "/uYxwVv1u6bWYukatuzwkjI9O5vx.jpg"
+        },
+        {
+          "id": 26197,
+          "name": "Nabil Elouahabi",
+          "credit_id": "5dcc64a5b2e0740014815745",
+          "character": "The Bright-Eyed Man",
+          "order": 13,
+          "gender": 2,
+          "profile_path": "/sXJJQDY6eQCjPDR6VGxey1gZvrl.jpg"
+        },
+        {
+          "id": 2457346,
+          "name": "Eloise Little",
+          "credit_id": "5dcc64f2b76cbb001372a548",
+          "character": "Salcilia (voice)",
+          "order": 15,
+          "gender": 0,
+          "profile_path": "/6laNohRbCWjKLdQ9z35XuP3UcL3.jpg"
+        },
+        {
+          "id": 1997513,
+          "name": "Sandra James-Young",
+          "credit_id": "5dcc65b9e263bb001771628a",
+          "character": "Diane",
+          "order": 15,
+          "gender": 0,
+          "profile_path": "/gml5mPv1DuNLVTwv4VEVdaelaxd.jpg"
+        },
+        {
+          "id": 2457354,
+          "name": "Ruby Llewelyn",
+          "credit_id": "5dcc6746e263bb0013711eb7",
+          "character": "Rose",
+          "order": 16,
+          "gender": 0,
+          "profile_path": "/9RBm9YnkTRKQTX1EdDoqaPTPSca.jpg"
+        },
+        {
+          "id": 2457355,
+          "name": "David Langham",
+          "credit_id": "5dcc67ed1d78f200182504d9",
+          "character": "Father Garret",
+          "order": 17,
+          "gender": 0,
+          "profile_path": "/40ruCwMB3aoZoORXUOBacQuPw6W.jpg"
+        },
+        {
+          "id": 1321628,
+          "name": "Morfydd Clark",
+          "credit_id": "5dcc68b1b042280012c69fff",
+          "character": "Sister Clara",
+          "order": 18,
+          "gender": 1,
+          "profile_path": "/nxWjzdYktHOhKcEzoiZiGsHpEzW.jpg"
+        },
+        {
+          "id": 208467,
+          "name": "Ian Peck",
+          "credit_id": "5dcc68c8cc277c0012e1063b",
+          "character": "Cardinal Sturrock",
+          "order": 19,
+          "gender": 0,
+          "profile_path": "/efEJsO8xhDdpOkWR0ArLl34B47f.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2019-11-17",
+      "episode_number": 3,
+      "id": 1974876,
+      "name": "The Spies",
+      "overview": "From the clutches of the Gobblers, Lyra finds help from an unlikely place. It helps her put together more about her past and keep safe from Mrs Coulter and the Magisterium.",
+      "production_code": "",
+      "season_number": 1,
+      "show_id": 68507,
+      "still_path": "/ouMUZmn6gnPQXzRfj2dCWzbNxpp.jpg",
+      "vote_average": 0,
+      "vote_count": 0,
+      "crew": [
+        {
+          "id": 548396,
+          "credit_id": "5dbeb94eefe37c001582cfc5",
+          "name": "Dawn Shadforth",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 0,
+          "profile_path": "/mkCJZDajO9wx5iJuTTpxe7xn7r4.jpg"
+        }
+      ],
+      "guest_stars": []
+    },
+    {
+      "air_date": "2019-11-24",
+      "episode_number": 4,
+      "id": 1974877,
+      "name": "Armour",
+      "overview": "Lyra and the Gyptians arrive in the North and seek the help of the Witches’ Consul, Texan aeronaut Lee Scoresby and an armoured bear in service to the town.",
+      "production_code": "",
+      "season_number": 1,
+      "show_id": 68507,
+      "still_path": null,
+      "vote_average": 0,
+      "vote_count": 0,
+      "crew": [
+        {
+          "id": 128276,
+          "credit_id": "5dbebb537d2bc10013361fcf",
+          "name": "Otto Bathurst",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/vojDKrTe52mnPrYSKUTOLWotEIN.jpg"
+        }
+      ],
+      "guest_stars": []
+    },
+    {
+      "air_date": "2019-12-01",
+      "episode_number": 5,
+      "id": 1974878,
+      "name": "The Lost Boy",
+      "overview": "",
+      "production_code": "",
+      "season_number": 1,
+      "show_id": 68507,
+      "still_path": null,
+      "vote_average": 0,
+      "vote_count": 0,
+      "crew": [
+        {
+          "id": 128276,
+          "credit_id": "5dbebb537d2bc10013361fcf",
+          "name": "Otto Bathurst",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/vojDKrTe52mnPrYSKUTOLWotEIN.jpg"
+        }
+      ],
+      "guest_stars": []
+    },
+    {
+      "air_date": "2019-12-08",
+      "episode_number": 6,
+      "id": 1974879,
+      "name": "The Daemon-Cages",
+      "overview": "",
+      "production_code": "",
+      "season_number": 1,
+      "show_id": 68507,
+      "still_path": null,
+      "vote_average": 0,
+      "vote_count": 0,
+      "crew": [
+        {
+          "id": 1216417,
+          "credit_id": "5dbebb91efe37c001582d3f0",
+          "name": "Euros Lyn",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/7EUPE3Umh3wsL0LkOMqmEqFPgDH.jpg"
+        }
+      ],
+      "guest_stars": []
+    },
+    {
+      "air_date": "2019-12-15",
+      "episode_number": 7,
+      "id": 1974880,
+      "name": "The Fight to the Death",
+      "overview": "",
+      "production_code": "",
+      "season_number": 1,
+      "show_id": 68507,
+      "still_path": null,
+      "vote_average": 0,
+      "vote_count": 0,
+      "crew": [
+        {
+          "id": 1855111,
+          "credit_id": "5dbebb9b7d2bc1001336205c",
+          "name": "Jamie Childs",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": []
+    },
+    {
+      "air_date": "2019-12-22",
+      "episode_number": 8,
+      "id": 1974881,
+      "name": "Betrayal",
+      "overview": "",
+      "production_code": "",
+      "season_number": 1,
+      "show_id": 68507,
+      "still_path": null,
+      "vote_average": 0,
+      "vote_count": 0,
+      "crew": [
+        {
+          "id": 1855111,
+          "credit_id": "5dbebb9b7d2bc1001336205c",
+          "name": "Jamie Childs",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": []
+    }
+  ],
+  "name": "Season 1",
+  "overview": "",
+  "id": 81616,
+  "poster_path": "/xOjRNnQw5hqR1EULJ2iHkGwJVA4.jpg",
+  "season_number": 1
+}
