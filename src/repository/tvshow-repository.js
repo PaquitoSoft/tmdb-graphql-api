@@ -6,23 +6,22 @@ class TvShowRepository {
 		POPULAR: 'popular',
 		TOP_RATED: 'top_rated'
 	}
-
+	
 	constructor({ apiKey, requester }) {
 		this.apiKey = apiKey;
 		this.requester = requester;
 	}
-	
-	async getByType({ type, language, page = 1 }) {
+
+	async getDetails({ tvShowId, language }) {
 		const result = await this.requester.request({
-			path: `/3/tv/${type}`,
+			path: `/3/tv/${tvShowId}`,
 			query: {
 				api_key: this.apiKey,
-				language,
-				page
+				language
 			}
 		});
-		
-		return result.results.map(t => new TvShow(t));
+
+		return new TvShow(result);
 	}
 
 	async searchTvShows({ searchTerm, language, page = 1 }) {
@@ -39,17 +38,17 @@ class TvShowRepository {
 		return result.results.map(t => new TvShow(t));
 	}
 
-
-	async getDetails({ tvShowId, language }) {
+	async getByType({ type, language, page = 1 }) {
 		const result = await this.requester.request({
-			path: `/3/tv/${tvShowId}`,
+			path: `/3/tv/${type}`,
 			query: {
 				api_key: this.apiKey,
-				language
+				language,
+				page
 			}
 		});
-
-		return new TvShow(result);
+		
+		return result.results.map(t => new TvShow(t));
 	}
 
 	async getSimilars({ tvShowId, language, page = 1 }) {
