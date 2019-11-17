@@ -9,6 +9,9 @@
   },
   "author": "Paquitosoft",
   "license": "ISC",
+  "engines": {
+	  "node": ">=12 <13"
+  },
   "dependencies": {
     "apollo-server": "^2.9.9",
     "dotenv": "^8.2.0",
