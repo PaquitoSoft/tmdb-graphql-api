@@ -1,4 +1,4 @@
-const TvShow = require('../models/TvShow');
+const TvShow = require('../models/tvshow');
 
 class TvShowRepository {
 
