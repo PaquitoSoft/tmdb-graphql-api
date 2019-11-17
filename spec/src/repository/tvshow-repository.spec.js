@@ -22,6 +22,7 @@ describe('TvShow Repository', () => {
 				language: 'en'
 			});
 
+			expect(requestFake.lastArg).to.have.property('path', '/3/tv/popular');
 			expect(tvShows).to.have.length(20);
 
 			const firstFixture = fixture.results[0];
