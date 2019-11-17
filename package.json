@@ -4,13 +4,14 @@
   "description": "The Movie DB GraphQL server",
   "main": "index.js",
   "scripts": {
+    "test": "mocha \"./spec/**/*.spec.js\"",
     "debug": "nodemon ./src/server.js --inspect",
     "start": "node ./src/server.js"
   },
   "author": "Paquitosoft",
   "license": "ISC",
   "engines": {
-	  "node": ">=12 <13"
+    "node": ">=12 <13"
   },
   "dependencies": {
     "apollo-server": "^2.9.9",
@@ -19,6 +20,10 @@
     "request": "^2.88.0"
   },
   "devDependencies": {
-    "nodemon": "^1.19.4"
+    "debug": "^4.1.1",
+    "expect.js": "^0.3.1",
+    "mocha": "^6.2.2",
+    "nodemon": "^1.19.4",
+    "sinon": "^7.5.0"
   }
 }
