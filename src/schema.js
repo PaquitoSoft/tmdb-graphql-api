@@ -27,7 +27,6 @@ const schema = gql`
 		name: String
 		seasonNumber: Int
 		posterPath: String
-		episodesCount: Int
 		airDate: String
 		episodes: [Episode]
 	}
@@ -73,6 +72,7 @@ const schema = gql`
 		getByType(type: String!, laguage: String, page: Int): [TvShow!]
 		getTvShowDetails(tvShowId: Int, language: String): TvShow
 		getSimilarsTvShows(tvShowId: Int, langauge: String): [TvShow]
+		getSeasonDetails(tvShowId: Int, seasonId: Int, langauge: String): Season
 	}
 `;
 
