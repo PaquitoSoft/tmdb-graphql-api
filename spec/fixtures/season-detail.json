@@ -1,0 +1,3228 @@
+{
+    "_id": "5256ce3419c2956ff60825d7",
+    "air_date": "2012-10-10",
+    "episodes": [
+        {
+            "air_date": "2012-10-10",
+            "episode_number": 1,
+            "id": 64111,
+            "name": "Pilot",
+            "overview": "After a violent shipwreck, billionaire playboy Oliver Queen was missing and presumed dead for five years before being discovered alive on a remote island in the Pacific. Back in Starling City, Oliver slowly reconnects with those closest to him. Oliver has brought back many new skills from his time on the island and manages to secretly create the persona of Arrow to right the wrongs of his family and fight the ills of society. As Arrow, Oliver will atone for the past sins of his family while he searches for the personal redemption he needs.",
+            "production_code": "296818",
+            "season_number": 1,
+            "show_id": 1412,
+            "still_path": "/zaqAlAdjZGBuFMsHsLUYjDlgm9r.jpg",
+            "vote_average": 6.456,
+            "vote_count": 34,
+            "crew": [
+                {
+                    "id": 33316,
+                    "credit_id": "5256ce3419c2956ff608261e",
+                    "name": "David Nutter",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 0,
+                    "profile_path": "/2ii4ZXKtwaxL0b4wlp0NnbcLZSy.jpg"
+                },
+                {
+                    "id": 1464130,
+                    "credit_id": "588521c29251410460024ae7",
+                    "name": "Paul Karasick",
+                    "department": "Editing",
+                    "job": "Editor",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 1216615,
+                    "credit_id": "562e67f8c3a3681b5200b0b0",
+                    "name": "Andrew Kreisberg",
+                    "department": "Writing",
+                    "job": "Teleplay",
+                    "gender": 2,
+                    "profile_path": "/giFmwdBAw6uwC8yeHPaW6dq6YT8.jpg"
+                },
+                {
+                    "id": 171830,
+                    "credit_id": "562e67e2c3a3681b6100b7d8",
+                    "name": "Marc Guggenheim",
+                    "department": "Writing",
+                    "job": "Story",
+                    "gender": 2,
+                    "profile_path": "/1nCTlHZ37IjpUlJbQv68iizYdX5.jpg"
+                },
+                {
+                    "id": 171830,
+                    "credit_id": "55d34d36c3a3680b0b0000db",
+                    "name": "Marc Guggenheim",
+                    "department": "Writing",
+                    "job": "Teleplay",
+                    "gender": 2,
+                    "profile_path": "/1nCTlHZ37IjpUlJbQv68iizYdX5.jpg"
+                },
+                {
+                    "id": 88967,
+                    "credit_id": "55d34d63c3a3680aff00012a",
+                    "name": "Greg Berlanti",
+                    "department": "Writing",
+                    "job": "Story",
+                    "gender": 2,
+                    "profile_path": "/AbocIYSo4KXx7nT6lz2dj3qMD8H.jpg"
+                },
+                {
+                    "id": 203444,
+                    "credit_id": "5885214ac3a3684ec602156a",
+                    "name": "Glen Winter",
+                    "department": "Camera",
+                    "job": "Director of Photography",
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 33316,
+                    "credit_id": "588515cbc3a3684f3a01d7a8",
+                    "name": "David Nutter",
+                    "department": "Production",
+                    "job": "Executive Producer",
+                    "gender": 0,
+                    "profile_path": "/2ii4ZXKtwaxL0b4wlp0NnbcLZSy.jpg"
+                },
+                {
+                    "id": 1034633,
+                    "credit_id": "58852220925141044c023bc1",
+                    "name": "Chris Rudolph",
+                    "department": "Production",
+                    "job": "Production Manager",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 62860,
+                    "credit_id": "588523b2925141045b023459",
+                    "name": "Tish Monaghan",
+                    "department": "Costume & Make-Up",
+                    "job": "Costume Design",
+                    "gender": 1,
+                    "profile_path": null
+                },
+                {
+                    "id": 1328138,
+                    "credit_id": "588523c29251413edb020b05",
+                    "name": "Connie Parker",
+                    "department": "Costume & Make-Up",
+                    "job": "Makeup Artist",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 1344840,
+                    "credit_id": "58852422925141045b0234d6",
+                    "name": "Tom Trafalski",
+                    "department": "Sound",
+                    "job": "Music Editor",
+                    "gender": 2,
+                    "profile_path": null
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 5414,
+                    "name": "Colin Salmon",
+                    "credit_id": "5256ce3819c2956ff6082a01",
+                    "character": "Walter Steele",
+                    "order": 5,
+                    "gender": 2,
+                    "profile_path": "/2RHy23vEDs0JRI4uy6IXNxKOrzL.jpg"
+                },
+                {
+                    "id": 2977,
+                    "name": "Jamey Sheridan",
+                    "credit_id": "555e2e5c9251417e4f000594",
+                    "character": "Robert Queen",
+                    "order": 26,
+                    "gender": 2,
+                    "profile_path": "/jpyh4Wd6AZ1oBCsbIxB72otXtcy.jpg"
+                },
+                {
+                    "id": 60652,
+                    "name": "Darren Shahlavi",
+                    "credit_id": "55a3cec29251412979005137",
+                    "character": "Constantine Drakon",
+                    "order": 34,
+                    "gender": 2,
+                    "profile_path": "/qnije3wcudlIbSjRrNr9A57tjO3.jpg"
+                },
+                {
+                    "id": 28004,
+                    "name": "Brian Markinson",
+                    "credit_id": "55ad925a92514172ef0078bc",
+                    "character": "Adam Hunt",
+                    "order": 35,
+                    "gender": 2,
+                    "profile_path": "/CL63sueT7SSBZQwoPH23FQEIR8.jpg"
+                },
+                {
+                    "id": 209196,
+                    "name": "Annie Ilonzeh",
+                    "credit_id": "55ae6b38c3a368246c005295",
+                    "character": "Joanna de la Vega",
+                    "order": 36,
+                    "gender": 1,
+                    "profile_path": "/pClp0YqYYVjeKOzrjzS5S1Mi7GH.jpg"
+                },
+                {
+                    "id": 25877,
+                    "name": "Roger Cross",
+                    "credit_id": "55ae6ca5c3a368300200a9c1",
+                    "character": "Detective Lucas Hilton",
+                    "order": 38,
+                    "gender": 2,
+                    "profile_path": "/cyd6iZZArmXmuAyxxJkodfMiMDs.jpg"
+                },
+                {
+                    "id": 103389,
+                    "name": "Jacqueline MacInnes Wood",
+                    "credit_id": "56cc5acdc3a36865e10026f7",
+                    "character": "Sara Lance",
+                    "order": 88,
+                    "gender": 1,
+                    "profile_path": "/q9sM5Ur8HfZsKO92rGy95YAtBxX.jpg"
+                },
+                {
+                    "id": 1037844,
+                    "name": "Laci J Mailey",
+                    "credit_id": "56cc5b19c3a36865eb002991",
+                    "character": "Margo",
+                    "order": 90,
+                    "gender": 1,
+                    "profile_path": "/b5o2XslvAJzU2rKTLZz77oiTex0.jpg"
+                },
+                {
+                    "id": 72099,
+                    "name": "Ben Cotton",
+                    "credit_id": "58851469925141045d0229f2",
+                    "character": "Crewman",
+                    "order": 148,
+                    "gender": 2,
+                    "profile_path": "/922dX7dP43qvKmqodz6akxdfJ5p.jpg"
+                },
+                {
+                    "id": 23625,
+                    "name": "Kathleen Gati",
+                    "credit_id": "56cc5aeb925141245e002602",
+                    "character": "Raisa",
+                    "order": 212,
+                    "gender": 1,
+                    "profile_path": "/qjOsiZ6H3XHbbZpxDRMyDeNqBFA.jpg"
+                }
+            ]
+        },
+        {
+            "air_date": "2012-10-17",
+            "episode_number": 2,
+            "id": 64112,
+            "name": "Honor Thy Father",
+            "overview": "Oliver heads to the courthouse to get his death certificate repealed and is pleasantly surprised to run into Laurel, who is there prosecuting Martin Somers, a criminal with ties to the Chinese Triad. Oliver recognizes Martin's name from his father's book and sets his sights on taking him down. Martin orders the Triad to \"take care of\" Laurel so they send their top mercenary - China White - after her, an act that culminates in a battle between Arrow and China White. Meanwhile, Moira and Walter ask Oliver to take over the company.",
+            "production_code": "2J7302",
+            "season_number": 1,
+            "show_id": 1412,
+            "still_path": "/vd1muBD34LjjKoHUx0J0Dnx1NGt.jpg",
+            "vote_average": 6.658,
+            "vote_count": 19,
+            "crew": [
+                {
+                    "id": 9556,
+                    "credit_id": "5256ce3419c2956ff608264b",
+                    "name": "David Barrett",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 2,
+                    "profile_path": "/ghWOXqNnJIYKH1GDkym7YyUx882.jpg"
+                },
+                {
+                    "id": 1216615,
+                    "credit_id": "562e67f8c3a3681b5200b0b0",
+                    "name": "Andrew Kreisberg",
+                    "department": "Writing",
+                    "job": "Teleplay",
+                    "gender": 2,
+                    "profile_path": "/giFmwdBAw6uwC8yeHPaW6dq6YT8.jpg"
+                },
+                {
+                    "id": 171830,
+                    "credit_id": "562e67e2c3a3681b6100b7d8",
+                    "name": "Marc Guggenheim",
+                    "department": "Writing",
+                    "job": "Story",
+                    "gender": 2,
+                    "profile_path": "/1nCTlHZ37IjpUlJbQv68iizYdX5.jpg"
+                },
+                {
+                    "id": 171830,
+                    "credit_id": "55d34d36c3a3680b0b0000db",
+                    "name": "Marc Guggenheim",
+                    "department": "Writing",
+                    "job": "Teleplay",
+                    "gender": 2,
+                    "profile_path": "/1nCTlHZ37IjpUlJbQv68iizYdX5.jpg"
+                },
+                {
+                    "id": 88967,
+                    "credit_id": "55d34d63c3a3680aff00012a",
+                    "name": "Greg Berlanti",
+                    "department": "Writing",
+                    "job": "Story",
+                    "gender": 2,
+                    "profile_path": "/AbocIYSo4KXx7nT6lz2dj3qMD8H.jpg"
+                },
+                {
+                    "id": 1212199,
+                    "credit_id": "588e5fe1925141184800f73d",
+                    "name": "Moira Kirland",
+                    "department": "Production",
+                    "job": "Co-Executive Producer",
+                    "gender": 0,
+                    "profile_path": null
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 5414,
+                    "name": "Colin Salmon",
+                    "credit_id": "5256ce3819c2956ff6082a01",
+                    "character": "Walter Steele",
+                    "order": 5,
+                    "gender": 2,
+                    "profile_path": "/2RHy23vEDs0JRI4uy6IXNxKOrzL.jpg"
+                },
+                {
+                    "id": 209196,
+                    "name": "Annie Ilonzeh",
+                    "credit_id": "55ae6b38c3a368246c005295",
+                    "character": "Joanna de la Vega",
+                    "order": 36,
+                    "gender": 1,
+                    "profile_path": "/pClp0YqYYVjeKOzrjzS5S1Mi7GH.jpg"
+                },
+                {
+                    "id": 42711,
+                    "name": "Ty Olsson",
+                    "credit_id": "56cc5baec3a36865eb0029b9",
+                    "character": "Martin Somers",
+                    "order": 91,
+                    "gender": 2,
+                    "profile_path": "/4cXAEMnYNjSOaI9stdSWfhNn49A.jpg"
+                },
+                {
+                    "id": 131820,
+                    "name": "Emma Bell",
+                    "credit_id": "56cc5bc9c3a36865eb0029be",
+                    "character": "Emily Nocenty",
+                    "order": 92,
+                    "gender": 1,
+                    "profile_path": "/h5gQ1jUduNv6SmFFBPADvDie4nY.jpg"
+                },
+                {
+                    "id": 11024,
+                    "name": "Kelly Hu",
+                    "credit_id": "5256ce3b19c2956ff6082b2f",
+                    "character": "China White",
+                    "order": 289,
+                    "gender": 1,
+                    "profile_path": "/2s8l6WvXyoDf0RbLeFGZvEclmds.jpg"
+                }
+            ]
+        },
+        {
+            "air_date": "2012-10-24",
+            "episode_number": 3,
+            "id": 64113,
+            "name": "Lone Gunmen",
+            "overview": "Oliver is surprised when someone shoots and kills one of his targets. As his plan is to bring people to justice vs. outright killing them, Oliver doesn't appreciate the help and searches for the gunman. He soon learns that the man, Deadshot, is taking out businessmen who are scheduled to bid at an auction on an energy company and Walter is one of the bidders. Realizing he can't protect his family and stop Deadshot at the same time, Oliver enlists Detective Lance's help, but his plan has dire consequences. Meanwhile, Laurel and Tommy get caught in an awkward situation with Oliver.",
+            "production_code": "2J7303",
+            "season_number": 1,
+            "show_id": 1412,
+            "still_path": "/qfhJRnr9xxVPTzEZqfM3qnqzlNg.jpg",
+            "vote_average": 7.263,
+            "vote_count": 19,
+            "crew": [
+                {
+                    "id": 130533,
+                    "credit_id": "5256ce3419c2956ff6082676",
+                    "name": "Guy Norman Bee",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 1216615,
+                    "credit_id": "562e67f8c3a3681b5200b0b0",
+                    "name": "Andrew Kreisberg",
+                    "department": "Writing",
+                    "job": "Teleplay",
+                    "gender": 2,
+                    "profile_path": "/giFmwdBAw6uwC8yeHPaW6dq6YT8.jpg"
+                },
+                {
+                    "id": 1216615,
+                    "credit_id": "55d34d6cc3a3680b1a000103",
+                    "name": "Andrew Kreisberg",
+                    "department": "Writing",
+                    "job": "Story",
+                    "gender": 2,
+                    "profile_path": "/giFmwdBAw6uwC8yeHPaW6dq6YT8.jpg"
+                },
+                {
+                    "id": 171830,
+                    "credit_id": "55d34d36c3a3680b0b0000db",
+                    "name": "Marc Guggenheim",
+                    "department": "Writing",
+                    "job": "Teleplay",
+                    "gender": 2,
+                    "profile_path": "/1nCTlHZ37IjpUlJbQv68iizYdX5.jpg"
+                },
+                {
+                    "id": 88967,
+                    "credit_id": "55d34d63c3a3680aff00012a",
+                    "name": "Greg Berlanti",
+                    "department": "Writing",
+                    "job": "Story",
+                    "gender": 2,
+                    "profile_path": "/AbocIYSo4KXx7nT6lz2dj3qMD8H.jpg"
+                },
+                {
+                    "id": 1212199,
+                    "credit_id": "588e5fe1925141184800f73d",
+                    "name": "Moira Kirland",
+                    "department": "Production",
+                    "job": "Co-Executive Producer",
+                    "gender": 0,
+                    "profile_path": null
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 1224027,
+                    "name": "Emily Bett Rickards",
+                    "credit_id": "5256ce3b19c2956ff6082a5d",
+                    "character": "Felicity Smoak",
+                    "order": 1,
+                    "gender": 1,
+                    "profile_path": "/zkx3Xwy7w4hFpBNnvfFsKOBQP9V.jpg"
+                },
+                {
+                    "id": 5414,
+                    "name": "Colin Salmon",
+                    "credit_id": "5256ce3819c2956ff6082a01",
+                    "character": "Walter Steele",
+                    "order": 5,
+                    "gender": 2,
+                    "profile_path": "/2RHy23vEDs0JRI4uy6IXNxKOrzL.jpg"
+                },
+                {
+                    "id": 1467737,
+                    "name": "Michael Rowe",
+                    "credit_id": "5557851a9251411e62006187",
+                    "character": "Floyd Lawton / Deadshot",
+                    "order": 20,
+                    "gender": 0,
+                    "profile_path": "/tHxNr3mH5l4qmkF6MtnkqlaHzyL.jpg"
+                },
+                {
+                    "id": 168554,
+                    "name": "Christie Laing",
+                    "credit_id": "55578577c3a368777400650d",
+                    "character": "Carly Diggle",
+                    "order": 21,
+                    "gender": 0,
+                    "profile_path": "/vdhQtqfz6FooxMEZbjXW2U1j4eD.jpg"
+                },
+                {
+                    "id": 209196,
+                    "name": "Annie Ilonzeh",
+                    "credit_id": "55ae6b38c3a368246c005295",
+                    "character": "Joanna de la Vega",
+                    "order": 36,
+                    "gender": 1,
+                    "profile_path": "/pClp0YqYYVjeKOzrjzS5S1Mi7GH.jpg"
+                },
+                {
+                    "id": 28871,
+                    "name": "Eugene Lipinski",
+                    "credit_id": "55ae6c41c3a368246c0052ae",
+                    "character": "Alexi Leonov",
+                    "order": 37,
+                    "gender": 2,
+                    "profile_path": "/rhpOJsibsqA4SG71GcH0LMfnygd.jpg"
+                },
+                {
+                    "id": 25877,
+                    "name": "Roger Cross",
+                    "credit_id": "55ae6ca5c3a368300200a9c1",
+                    "character": "Detective Lucas Hilton",
+                    "order": 38,
+                    "gender": 2,
+                    "profile_path": "/cyd6iZZArmXmuAyxxJkodfMiMDs.jpg"
+                },
+                {
+                    "id": 57748,
+                    "name": "Byron Mann",
+                    "credit_id": "56491009c3a3682605008941",
+                    "character": "Yao Fei",
+                    "order": 77,
+                    "gender": 2,
+                    "profile_path": "/aaF0PYLbw8nH54wm9vO5tJ8oyfH.jpg"
+                },
+                {
+                    "id": 1578986,
+                    "name": "Tobias Slezak",
+                    "credit_id": "56cc5c37c3a36865e1002715",
+                    "character": "James Holder",
+                    "order": 94,
+                    "gender": 0,
+                    "profile_path": null
+                }
+            ]
+        },
+        {
+            "air_date": "2012-10-31",
+            "episode_number": 4,
+            "id": 64116,
+            "name": "An Innocent Man",
+            "overview": "Oliver still hasn't figured out how to get back in Laurel's good graces, but a late night bonding session with Thea gives him the inspiration he needs. Looking into a suspicious murder case, Oliver realizes an innocent man, Peter Declan, was framed by one of the targets on his list. As Arrow, he asks Laurel to help prove Declan's innocence. Meanwhile, Walter asks one of his employees, Felicity Smoak, to look into a $2.6 million withdrawal that Moira made without his knowledge.",
+            "production_code": "2J7304",
+            "season_number": 1,
+            "show_id": 1412,
+            "still_path": "/gf5M5oC7jAuzisQh7uy9XJMzsdO.jpg",
+            "vote_average": 7.294,
+            "vote_count": 17,
+            "crew": [
+                {
+                    "id": 1212200,
+                    "credit_id": "55ae6d29c3a3682d63007f6e",
+                    "name": "Vincent Misiano",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 0,
+                    "profile_path": "/puFll2KODC8SmPUYkQJl08TGaez.jpg"
+                },
+                {
+                    "id": 1212199,
+                    "credit_id": "55ae6d019251411e1400ace6",
+                    "name": "Moira Kirland",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 1489089,
+                    "credit_id": "55ae6cecc3a3682ff400c168",
+                    "name": "Lana Cho",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 1212199,
+                    "credit_id": "588e5fe1925141184800f73d",
+                    "name": "Moira Kirland",
+                    "department": "Production",
+                    "job": "Co-Executive Producer",
+                    "gender": 0,
+                    "profile_path": null
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 1224027,
+                    "name": "Emily Bett Rickards",
+                    "credit_id": "5256ce3b19c2956ff6082a5d",
+                    "character": "Felicity Smoak",
+                    "order": 1,
+                    "gender": 1,
+                    "profile_path": "/zkx3Xwy7w4hFpBNnvfFsKOBQP9V.jpg"
+                },
+                {
+                    "id": 5414,
+                    "name": "Colin Salmon",
+                    "credit_id": "5256ce3819c2956ff6082a01",
+                    "character": "Walter Steele",
+                    "order": 5,
+                    "gender": 2,
+                    "profile_path": "/2RHy23vEDs0JRI4uy6IXNxKOrzL.jpg"
+                },
+                {
+                    "id": 168554,
+                    "name": "Christie Laing",
+                    "credit_id": "55578577c3a368777400650d",
+                    "character": "Carly Diggle",
+                    "order": 21,
+                    "gender": 0,
+                    "profile_path": "/vdhQtqfz6FooxMEZbjXW2U1j4eD.jpg"
+                },
+                {
+                    "id": 209196,
+                    "name": "Annie Ilonzeh",
+                    "credit_id": "55ae6b38c3a368246c005295",
+                    "character": "Joanna de la Vega",
+                    "order": 36,
+                    "gender": 1,
+                    "profile_path": "/pClp0YqYYVjeKOzrjzS5S1Mi7GH.jpg"
+                },
+                {
+                    "id": 25877,
+                    "name": "Roger Cross",
+                    "credit_id": "55ae6ca5c3a368300200a9c1",
+                    "character": "Detective Lucas Hilton",
+                    "order": 38,
+                    "gender": 2,
+                    "profile_path": "/cyd6iZZArmXmuAyxxJkodfMiMDs.jpg"
+                },
+                {
+                    "id": 57748,
+                    "name": "Byron Mann",
+                    "credit_id": "56491009c3a3682605008941",
+                    "character": "Yao Fei",
+                    "order": 77,
+                    "gender": 2,
+                    "profile_path": "/aaF0PYLbw8nH54wm9vO5tJ8oyfH.jpg"
+                },
+                {
+                    "id": 1317397,
+                    "name": "T.J. Ramini",
+                    "credit_id": "56cc5c9e925141245200266d",
+                    "character": "Jason Brodeur",
+                    "order": 95,
+                    "gender": 0,
+                    "profile_path": "/yGbVvKLGxS8j6mnYn3k89w2NQV4.jpg"
+                },
+                {
+                    "id": 1110009,
+                    "name": "Lane Edwards",
+                    "credit_id": "56cc5cb4c3a36865d90027d7",
+                    "character": "Peter Declan",
+                    "order": 96,
+                    "gender": 2,
+                    "profile_path": "/1SidjTfyEJQP5QCuc6equ3FkCO6.jpg"
+                },
+                {
+                    "id": 89025,
+                    "name": "Kirby Morrow",
+                    "credit_id": "56cc5cc7c3a36865e90026c3",
+                    "character": "Matt Istook",
+                    "order": 97,
+                    "gender": 2,
+                    "profile_path": "/uOx9FmK1O3p6BKRVURkh0SoM3a7.jpg"
+                },
+                {
+                    "id": 1287152,
+                    "name": "William Vaughan",
+                    "credit_id": "56cc5cdec3a36865d90027db",
+                    "character": "Rob Scott",
+                    "order": 98,
+                    "gender": 2,
+                    "profile_path": "/40WgztCkVXvltgyIVdpBtyoC9E3.jpg"
+                },
+                {
+                    "id": 1306565,
+                    "name": "Genea Charpentier",
+                    "credit_id": "5da4b5071967570017ada3eb",
+                    "character": "Izzy Declan",
+                    "order": 285,
+                    "gender": 1,
+                    "profile_path": "/mPlOBUZtEfOGIGOxytzHUsC7Ob3.jpg"
+                },
+                {
+                    "id": 182287,
+                    "name": "John Barrowman",
+                    "credit_id": "563d43e39251413b1300a44b",
+                    "character": "Malcolm Merlyn",
+                    "order": 286,
+                    "gender": 2,
+                    "profile_path": "/bqORM8i3H0EFc8UqYMUpFZNA8u6.jpg"
+                }
+            ]
+        },
+        {
+            "air_date": "2012-11-07",
+            "episode_number": 5,
+            "id": 64114,
+            "name": "Damaged",
+            "overview": "After Detective Lance arrests Oliver for murder, Oliver tells Moira the only lawyer he'll allow to represent him is Laurel. Laurel takes the case which puts her at odds with her father. Oliver offers to take a polygraph in front Detective Lance but things get tense when Lance asks him if anyone else was on the island with him. Oliver flashes back to when he got his first scar, courtesy of Deathstroke.",
+            "production_code": "2J7305",
+            "season_number": 1,
+            "show_id": 1412,
+            "still_path": "/dy6AyCilp9fbFkaB3iV0jU8o4sd.jpg",
+            "vote_average": 7.571,
+            "vote_count": 14,
+            "crew": [
+                {
+                    "id": 77300,
+                    "credit_id": "5256ce3419c2956ff60826cf",
+                    "name": "Michael Schultz",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 2,
+                    "profile_path": "/vOeqakUoDdAKECGmiSwx8yq2AV0.jpg"
+                },
+                {
+                    "id": 1371443,
+                    "credit_id": "5431b5650e0a2656e2002720",
+                    "name": "Wendy Mericle",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 1,
+                    "profile_path": null
+                },
+                {
+                    "id": 1212199,
+                    "credit_id": "588e5fe1925141184800f73d",
+                    "name": "Moira Kirland",
+                    "department": "Production",
+                    "job": "Co-Executive Producer",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 1371444,
+                    "credit_id": "5431b5b00e0a264643003ddf",
+                    "name": "Ben Sokolowski",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 2,
+                    "profile_path": null
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 1224027,
+                    "name": "Emily Bett Rickards",
+                    "credit_id": "5256ce3b19c2956ff6082a5d",
+                    "character": "Felicity Smoak",
+                    "order": 1,
+                    "gender": 1,
+                    "profile_path": "/zkx3Xwy7w4hFpBNnvfFsKOBQP9V.jpg"
+                },
+                {
+                    "id": 5414,
+                    "name": "Colin Salmon",
+                    "credit_id": "5256ce3819c2956ff6082a01",
+                    "character": "Walter Steele",
+                    "order": 5,
+                    "gender": 2,
+                    "profile_path": "/2RHy23vEDs0JRI4uy6IXNxKOrzL.jpg"
+                },
+                {
+                    "id": 1264234,
+                    "name": "Sebastian Dunn",
+                    "credit_id": "5571e1a39251416cd5001d65",
+                    "character": "Edward Fyers",
+                    "order": 34,
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 70175,
+                    "name": "Chelah Horsdal",
+                    "credit_id": "55ae78609251411e1100afe4",
+                    "character": "Kate Spencer",
+                    "order": 39,
+                    "gender": 1,
+                    "profile_path": "/v6Av8yrD3C34ngdROP31rNr9vD3.jpg"
+                },
+                {
+                    "id": 57748,
+                    "name": "Byron Mann",
+                    "credit_id": "56491009c3a3682605008941",
+                    "character": "Yao Fei",
+                    "order": 77,
+                    "gender": 2,
+                    "profile_path": "/aaF0PYLbw8nH54wm9vO5tJ8oyfH.jpg"
+                },
+                {
+                    "id": 91404,
+                    "name": "Eric Breker",
+                    "credit_id": "588646d59251415abb0029e2",
+                    "character": "Leo Mueller",
+                    "order": 147,
+                    "gender": 2,
+                    "profile_path": "/ipjCpokW77mQ3tixLJERoohJPZm.jpg"
+                },
+                {
+                    "id": 182287,
+                    "name": "John Barrowman",
+                    "credit_id": "563d43e39251413b1300a44b",
+                    "character": "Malcolm Merlyn",
+                    "order": 286,
+                    "gender": 2,
+                    "profile_path": "/bqORM8i3H0EFc8UqYMUpFZNA8u6.jpg"
+                }
+            ]
+        },
+        {
+            "air_date": "2012-11-14",
+            "episode_number": 6,
+            "id": 64115,
+            "name": "Legacies",
+            "overview": "A gang of bank robbers, dubbed The Royal Flush Gang, hits a local bank and seriously wounds an off-duty police officer during a heist. Diggle tells Oliver he needs to deviate from his father's list and start helping the citizens of Starling City. Meanwhile, Tommy asks Thea for relationship advice, but things get awkward when she realizes he was asking about Laurel. Moira confronts Oliver about all of his recent disappearances in the middle of family functions.",
+            "production_code": "2J7306",
+            "season_number": 1,
+            "show_id": 1412,
+            "still_path": "/aMoIdnLnwzeF6amCjuz7mCEpEet.jpg",
+            "vote_average": 7.077,
+            "vote_count": 13,
+            "crew": [
+                {
+                    "id": 1212199,
+                    "credit_id": "55ae6d019251411e1400ace6",
+                    "name": "Moira Kirland",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 1,
+                    "profile_path": null
+                },
+                {
+                    "id": 1215006,
+                    "credit_id": "5256ce3519c2956ff60826f8",
+                    "name": "John Behring",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 2,
+                    "profile_path": "/5FthcEQTiVLn50daWXLYB07HyqB.jpg"
+                },
+                {
+                    "id": 1212199,
+                    "credit_id": "588e5fe1925141184800f73d",
+                    "name": "Moira Kirland",
+                    "department": "Production",
+                    "job": "Co-Executive Producer",
+                    "gender": 1,
+                    "profile_path": null
+                },
+                {
+                    "id": 171830,
+                    "credit_id": "5256ce3d19c2956ff6082bf5",
+                    "name": "Marc Guggenheim",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 2,
+                    "profile_path": "/1nCTlHZ37IjpUlJbQv68iizYdX5.jpg"
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 1224027,
+                    "name": "Emily Bett Rickards",
+                    "credit_id": "5256ce3b19c2956ff6082a5d",
+                    "character": "Felicity Smoak",
+                    "order": 1,
+                    "gender": 1,
+                    "profile_path": "/zkx3Xwy7w4hFpBNnvfFsKOBQP9V.jpg"
+                },
+                {
+                    "id": 2977,
+                    "name": "Jamey Sheridan",
+                    "credit_id": "555e2e5c9251417e4f000594",
+                    "character": "Robert Queen",
+                    "order": 26,
+                    "gender": 2,
+                    "profile_path": "/jpyh4Wd6AZ1oBCsbIxB72otXtcy.jpg"
+                },
+                {
+                    "id": 209196,
+                    "name": "Annie Ilonzeh",
+                    "credit_id": "55ae6b38c3a368246c005295",
+                    "character": "Joanna de la Vega",
+                    "order": 36,
+                    "gender": 1,
+                    "profile_path": "/pClp0YqYYVjeKOzrjzS5S1Mi7GH.jpg"
+                },
+                {
+                    "id": 25877,
+                    "name": "Roger Cross",
+                    "credit_id": "55ae6ca5c3a368300200a9c1",
+                    "character": "Detective Lucas Hilton",
+                    "order": 38,
+                    "gender": 2,
+                    "profile_path": "/cyd6iZZArmXmuAyxxJkodfMiMDs.jpg"
+                },
+                {
+                    "id": 156590,
+                    "name": "Currie Graham",
+                    "credit_id": "55ae7966c3a368246c00538d",
+                    "character": "Derek Reston",
+                    "order": 40,
+                    "gender": 2,
+                    "profile_path": "/nAfWp90FpQUvZX62CRwmgN1NB1t.jpg"
+                },
+                {
+                    "id": 232,
+                    "name": "Kyle Schmid",
+                    "credit_id": "55ae7980c3a368300200aab0",
+                    "character": "Kyle Reston",
+                    "order": 41,
+                    "gender": 2,
+                    "profile_path": "/d0BikewdLHSo6gjNMlBU7m7ePdG.jpg"
+                },
+                {
+                    "id": 558343,
+                    "name": "Tom Stevens   ",
+                    "credit_id": "55ae79b6c3a3682d6300804f",
+                    "character": "Teddy Reston",
+                    "order": 42,
+                    "gender": 2,
+                    "profile_path": "/zwUdTtIBYRD4eIwfDXKNKMaKxUa.jpg"
+                },
+                {
+                    "id": 232525,
+                    "name": "Warren Christie",
+                    "credit_id": "56cc5d99c3a36865df002641",
+                    "character": "Carter Bowen",
+                    "order": 100,
+                    "gender": 2,
+                    "profile_path": "/lwtaRUHBAeJ8vFWKtYaKyLqstcl.jpg"
+                },
+                {
+                    "id": 59183,
+                    "name": "Sarah-Jane Redmond",
+                    "credit_id": "56cc5dadc3a36865db002739",
+                    "character": "Sra. Reston",
+                    "order": 101,
+                    "gender": 1,
+                    "profile_path": "/6LyqFc8EfX7hjNnxh4MIo3yhm37.jpg"
+                }
+            ]
+        },
+        {
+            "air_date": "2012-11-28",
+            "episode_number": 7,
+            "id": 64117,
+            "name": "Muse of Fire",
+            "overview": "Oliver encounters a mysterious woman, Helena Bertinelli, daughter of mob boss Frank Bertinelli, who he can finally be himself with, but he soon comes to realize she's hiding dangerous secrets of her own. Helena is on her own personal mission of vengeance and Oliver is caught in the middle. Meanwhile, Tommy is blindsided by an unfortunate turn of events and turns to Laurel for support.",
+            "production_code": "2J7307",
+            "season_number": 1,
+            "show_id": 1412,
+            "still_path": "/8lJ0vSYeeXm3X57gDzbcLm5b0RD.jpg",
+            "vote_average": 6.885,
+            "vote_count": 13,
+            "crew": [
+                {
+                    "id": 43954,
+                    "credit_id": "5256ce3519c2956ff608274e",
+                    "name": "David Grossman",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 2,
+                    "profile_path": "/9Eq50X0bOm0WxCVnwLmB9igAwUq.jpg"
+                },
+                {
+                    "id": 211962,
+                    "credit_id": "562e6de1c3a3681b5900b0d2",
+                    "name": "Geoff Johns",
+                    "department": "Writing",
+                    "job": "Teleplay",
+                    "gender": 2,
+                    "profile_path": "/1hiQjkIkeFoiwvD4yIk2Dq6tnOa.jpg"
+                },
+                {
+                    "id": 1216615,
+                    "credit_id": "55d34d6cc3a3680b1a000103",
+                    "name": "Andrew Kreisberg",
+                    "department": "Writing",
+                    "job": "Story",
+                    "gender": 2,
+                    "profile_path": "/giFmwdBAw6uwC8yeHPaW6dq6YT8.jpg"
+                },
+                {
+                    "id": 171830,
+                    "credit_id": "55d34d36c3a3680b0b0000db",
+                    "name": "Marc Guggenheim",
+                    "department": "Writing",
+                    "job": "Teleplay",
+                    "gender": 2,
+                    "profile_path": "/1nCTlHZ37IjpUlJbQv68iizYdX5.jpg"
+                },
+                {
+                    "id": 1212199,
+                    "credit_id": "588e5fe1925141184800f73d",
+                    "name": "Moira Kirland",
+                    "department": "Production",
+                    "job": "Co-Executive Producer",
+                    "gender": 1,
+                    "profile_path": null
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 5414,
+                    "name": "Colin Salmon",
+                    "credit_id": "5256ce3819c2956ff6082a01",
+                    "character": "Walter Steele",
+                    "order": 5,
+                    "gender": 2,
+                    "profile_path": "/2RHy23vEDs0JRI4uy6IXNxKOrzL.jpg"
+                },
+                {
+                    "id": 1196822,
+                    "name": "Jessica De Gouw",
+                    "credit_id": "55578f4a9251411e5700679d",
+                    "character": "Helena Bertinelli / The Huntress",
+                    "order": 22,
+                    "gender": 1,
+                    "profile_path": "/eh0lOvB6ZLBepitFhCx1u7w6Hs6.jpg"
+                },
+                {
+                    "id": 25877,
+                    "name": "Roger Cross",
+                    "credit_id": "55ae6ca5c3a368300200a9c1",
+                    "character": "Detective Lucas Hilton",
+                    "order": 38,
+                    "gender": 2,
+                    "profile_path": "/cyd6iZZArmXmuAyxxJkodfMiMDs.jpg"
+                },
+                {
+                    "id": 24048,
+                    "name": "Jeffrey Nordling",
+                    "credit_id": "55ae7a059251411e1100b00d",
+                    "character": "Frank Bertinelli",
+                    "order": 43,
+                    "gender": 2,
+                    "profile_path": "/qLEiNpTGAoizKW9nzINSlrg9d2h.jpg"
+                },
+                {
+                    "id": 77223,
+                    "name": "Tahmoh Penikett",
+                    "credit_id": "56cc5e3ac3a36865db002747",
+                    "character": "Tom Salvati",
+                    "order": 102,
+                    "gender": 2,
+                    "profile_path": "/uHnfPSFXdJJTaE0rjwj3I2b91I8.jpg"
+                },
+                {
+                    "id": 12055,
+                    "name": "John Cassini",
+                    "credit_id": "56cc5e57925141245700266c",
+                    "character": "Sr. Russo",
+                    "order": 103,
+                    "gender": 2,
+                    "profile_path": "/izBERhT4aN3PHwfeW1MNdytO800.jpg"
+                },
+                {
+                    "id": 182287,
+                    "name": "John Barrowman",
+                    "credit_id": "563d43e39251413b1300a44b",
+                    "character": "Malcolm Merlyn",
+                    "order": 286,
+                    "gender": 2,
+                    "profile_path": "/bqORM8i3H0EFc8UqYMUpFZNA8u6.jpg"
+                },
+                {
+                    "id": 11024,
+                    "name": "Kelly Hu",
+                    "credit_id": "5256ce3b19c2956ff6082b2f",
+                    "character": "China White",
+                    "order": 289,
+                    "gender": 1,
+                    "profile_path": "/2s8l6WvXyoDf0RbLeFGZvEclmds.jpg"
+                }
+            ]
+        },
+        {
+            "air_date": "2012-12-05",
+            "episode_number": 8,
+            "id": 64118,
+            "name": "Vendetta",
+            "overview": "As Oliver and Helena grow closer, Oliver trains her to be his ally, complete with showing her how to use a crossbow. Diggle disapproves of Oliver sharing his secret with Helena as he's not sure she can be trusted, but Oliver refuses to listen to his concerns. Helena's quest for revenge proves to be too strong for Oliver to handle after she kills the head of the Triad and all hell breaks loose.",
+            "production_code": "2J7308",
+            "season_number": 1,
+            "show_id": 1412,
+            "still_path": "/i9I8WZJxDksZE9ETqcKD8yWnNP1.jpg",
+            "vote_average": 6.333,
+            "vote_count": 15,
+            "crew": [
+                {
+                    "id": 155584,
+                    "credit_id": "5256ce3719c2956ff6082779",
+                    "name": "Kenneth Fink",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 2,
+                    "profile_path": "/lLoVoDSV4ypFJnSJkSEoWJkOpzt.jpg"
+                },
+                {
+                    "id": 1216615,
+                    "credit_id": "5256ce3519c2956ff6082732",
+                    "name": "Andrew Kreisberg",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 2,
+                    "profile_path": "/giFmwdBAw6uwC8yeHPaW6dq6YT8.jpg"
+                },
+                {
+                    "id": 1489112,
+                    "credit_id": "55ae7a489251411e1400adf4",
+                    "name": "Beth Schwartz",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 1,
+                    "profile_path": null
+                },
+                {
+                    "id": 1212199,
+                    "credit_id": "588e5fe1925141184800f73d",
+                    "name": "Moira Kirland",
+                    "department": "Production",
+                    "job": "Co-Executive Producer",
+                    "gender": 1,
+                    "profile_path": null
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 1224027,
+                    "name": "Emily Bett Rickards",
+                    "credit_id": "5256ce3b19c2956ff6082a5d",
+                    "character": "Felicity Smoak",
+                    "order": 1,
+                    "gender": 1,
+                    "profile_path": "/zkx3Xwy7w4hFpBNnvfFsKOBQP9V.jpg"
+                },
+                {
+                    "id": 5414,
+                    "name": "Colin Salmon",
+                    "credit_id": "5256ce3819c2956ff6082a01",
+                    "character": "Walter Steele",
+                    "order": 5,
+                    "gender": 2,
+                    "profile_path": "/2RHy23vEDs0JRI4uy6IXNxKOrzL.jpg"
+                },
+                {
+                    "id": 168554,
+                    "name": "Christie Laing",
+                    "credit_id": "55578577c3a368777400650d",
+                    "character": "Carly Diggle",
+                    "order": 21,
+                    "gender": 0,
+                    "profile_path": "/vdhQtqfz6FooxMEZbjXW2U1j4eD.jpg"
+                },
+                {
+                    "id": 1196822,
+                    "name": "Jessica De Gouw",
+                    "credit_id": "55578f4a9251411e5700679d",
+                    "character": "Helena Bertinelli / The Huntress",
+                    "order": 22,
+                    "gender": 1,
+                    "profile_path": "/eh0lOvB6ZLBepitFhCx1u7w6Hs6.jpg"
+                },
+                {
+                    "id": 24048,
+                    "name": "Jeffrey Nordling",
+                    "credit_id": "55ae7a059251411e1100b00d",
+                    "character": "Frank Bertinelli",
+                    "order": 43,
+                    "gender": 2,
+                    "profile_path": "/qLEiNpTGAoizKW9nzINSlrg9d2h.jpg"
+                },
+                {
+                    "id": 11024,
+                    "name": "Kelly Hu",
+                    "credit_id": "5256ce3b19c2956ff6082b2f",
+                    "character": "China White",
+                    "order": 289,
+                    "gender": 1,
+                    "profile_path": "/2s8l6WvXyoDf0RbLeFGZvEclmds.jpg"
+                }
+            ]
+        },
+        {
+            "air_date": "2012-12-12",
+            "episode_number": 9,
+            "id": 64119,
+            "name": "Year's End",
+            "overview": "Oliver discovers that after he and his father went missing, Moira and Thea stopped celebrating Christmas. Determined to make up for lost time and restore a sense of normalcy to the Queen household, Oliver decides to throw the family a Christmas party. Meanwhile, Tommy asks Laurel to spend Christmas with him but she points out that Christmas was also her sister Sara's birthday and she needs to be with her father. Tommy suggests changing things up might be the best way for everyone to heal but Laurel isn't sure her father is ready for that. Meanwhile, Diggle tells Oliver someone is murdering the people on his father's list with arrows, which sends Oliver off to face his toughest adversary yet.",
+            "production_code": "2J7309",
+            "season_number": 1,
+            "show_id": 1412,
+            "still_path": "/ikvn1DwAROee80Pzy4oEfuPaORn.jpg",
+            "vote_average": 7.692,
+            "vote_count": 13,
+            "crew": [
+                {
+                    "id": 21053,
+                    "credit_id": "55ae7b029251411e0f00ad85",
+                    "name": "John Dahl",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 2,
+                    "profile_path": "/klMxcB64Tu0sWCn3YDTMcGWPArQ.jpg"
+                },
+                {
+                    "id": 1216615,
+                    "credit_id": "562e67f8c3a3681b5200b0b0",
+                    "name": "Andrew Kreisberg",
+                    "department": "Writing",
+                    "job": "Teleplay",
+                    "gender": 2,
+                    "profile_path": "/giFmwdBAw6uwC8yeHPaW6dq6YT8.jpg"
+                },
+                {
+                    "id": 171830,
+                    "credit_id": "562e67e2c3a3681b6100b7d8",
+                    "name": "Marc Guggenheim",
+                    "department": "Writing",
+                    "job": "Story",
+                    "gender": 2,
+                    "profile_path": "/1nCTlHZ37IjpUlJbQv68iizYdX5.jpg"
+                },
+                {
+                    "id": 171830,
+                    "credit_id": "55d34d36c3a3680b0b0000db",
+                    "name": "Marc Guggenheim",
+                    "department": "Writing",
+                    "job": "Teleplay",
+                    "gender": 2,
+                    "profile_path": "/1nCTlHZ37IjpUlJbQv68iizYdX5.jpg"
+                },
+                {
+                    "id": 88967,
+                    "credit_id": "55d34d63c3a3680aff00012a",
+                    "name": "Greg Berlanti",
+                    "department": "Writing",
+                    "job": "Story",
+                    "gender": 2,
+                    "profile_path": "/AbocIYSo4KXx7nT6lz2dj3qMD8H.jpg"
+                },
+                {
+                    "id": 1212199,
+                    "credit_id": "588e5fe1925141184800f73d",
+                    "name": "Moira Kirland",
+                    "department": "Production",
+                    "job": "Co-Executive Producer",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 1379807,
+                    "credit_id": "588e52bec3a368749700e42f",
+                    "name": "Drew Z. Greenberg",
+                    "department": "Production",
+                    "job": "Co-Executive Producer",
+                    "gender": 0,
+                    "profile_path": "/2ePdjjMbVJV8xgu3rvKJLsOnL6H.jpg"
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 1224027,
+                    "name": "Emily Bett Rickards",
+                    "credit_id": "5256ce3b19c2956ff6082a5d",
+                    "character": "Felicity Smoak",
+                    "order": 1,
+                    "gender": 1,
+                    "profile_path": "/zkx3Xwy7w4hFpBNnvfFsKOBQP9V.jpg"
+                },
+                {
+                    "id": 5414,
+                    "name": "Colin Salmon",
+                    "credit_id": "5256ce3819c2956ff6082a01",
+                    "character": "Walter Steele",
+                    "order": 5,
+                    "gender": 2,
+                    "profile_path": "/2RHy23vEDs0JRI4uy6IXNxKOrzL.jpg"
+                },
+                {
+                    "id": 1264234,
+                    "name": "Sebastian Dunn",
+                    "credit_id": "5571e1a39251416cd5001d65",
+                    "character": "Edward Fyers",
+                    "order": 34,
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 28004,
+                    "name": "Brian Markinson",
+                    "credit_id": "55ad925a92514172ef0078bc",
+                    "character": "Adam Hunt",
+                    "order": 35,
+                    "gender": 2,
+                    "profile_path": "/CL63sueT7SSBZQwoPH23FQEIR8.jpg"
+                },
+                {
+                    "id": 57748,
+                    "name": "Byron Mann",
+                    "credit_id": "56491009c3a3682605008941",
+                    "character": "Yao Fei",
+                    "order": 77,
+                    "gender": 2,
+                    "profile_path": "/aaF0PYLbw8nH54wm9vO5tJ8oyfH.jpg"
+                },
+                {
+                    "id": 182287,
+                    "name": "John Barrowman",
+                    "credit_id": "563d43e39251413b1300a44b",
+                    "character": "Malcolm Merlyn",
+                    "order": 286,
+                    "gender": 2,
+                    "profile_path": "/bqORM8i3H0EFc8UqYMUpFZNA8u6.jpg"
+                }
+            ]
+        },
+        {
+            "air_date": "2013-01-16",
+            "episode_number": 10,
+            "id": 64120,
+            "name": "Burned",
+            "overview": "Oliver’s confidence is shaken after being beaten by the Dark Archer and he takes a break from being Arrow. However, when Laurel calls Arrow for help investigating a firefighter’s suspicious death, he reluctantly agrees but his hesitance while fighting almost costs him his life. Meanwhile, Tommy throws a benefit for the firefighters and Thea tries to lift Moira out of her depressive state.",
+            "production_code": "2J7310",
+            "season_number": 1,
+            "show_id": 1412,
+            "still_path": "/5JYPDSgkcS7f1rUIjbuxff48JIb.jpg",
+            "vote_average": 6.818,
+            "vote_count": 11,
+            "crew": [
+                {
+                    "id": 1212199,
+                    "credit_id": "55ae6d019251411e1400ace6",
+                    "name": "Moira Kirland",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 205641,
+                    "credit_id": "55b028939251411e0f00d06b",
+                    "name": "Eagle Egilsson",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 2,
+                    "profile_path": "/wRhJa1FJxv7yeRkWCzwJ4S1THmJ.jpg"
+                },
+                {
+                    "id": 1212199,
+                    "credit_id": "588e5fe1925141184800f73d",
+                    "name": "Moira Kirland",
+                    "department": "Production",
+                    "job": "Co-Executive Producer",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 1379807,
+                    "credit_id": "588e52bec3a368749700e42f",
+                    "name": "Drew Z. Greenberg",
+                    "department": "Production",
+                    "job": "Co-Executive Producer",
+                    "gender": 0,
+                    "profile_path": "/2ePdjjMbVJV8xgu3rvKJLsOnL6H.jpg"
+                },
+                {
+                    "id": 1371444,
+                    "credit_id": "5431b5b00e0a264643003ddf",
+                    "name": "Ben Sokolowski",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 2,
+                    "profile_path": null
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 209196,
+                    "name": "Annie Ilonzeh",
+                    "credit_id": "55ae6b38c3a368246c005295",
+                    "character": "Joanna de la Vega",
+                    "order": 36,
+                    "gender": 1,
+                    "profile_path": "/pClp0YqYYVjeKOzrjzS5S1Mi7GH.jpg"
+                },
+                {
+                    "id": 998262,
+                    "name": "Andrew Dunbar",
+                    "credit_id": "56cc5f37c3a36865d9002813",
+                    "character": "Garfield Lynns / Firefly",
+                    "order": 104,
+                    "gender": 2,
+                    "profile_path": "/7DLjOd6qPgNI5fA37M5O2SkRLYA.jpg"
+                },
+                {
+                    "id": 8540,
+                    "name": "Danny Nucci",
+                    "credit_id": "56cc5f67925141245a002664",
+                    "character": "Jefe Raynes",
+                    "order": 105,
+                    "gender": 2,
+                    "profile_path": "/q1KztDGVWkVzbKYlj5GAoojpQc4.jpg"
+                },
+                {
+                    "id": 61133,
+                    "name": "Michael Daingerfield",
+                    "credit_id": "56cc5f82c3a36865ef00266b",
+                    "character": "Ned Foster",
+                    "order": 106,
+                    "gender": 2,
+                    "profile_path": "/7f9VtXicaPco549h1Nbrjk3WCy0.jpg"
+                }
+            ]
+        },
+        {
+            "air_date": "2013-01-23",
+            "episode_number": 11,
+            "id": 64121,
+            "name": "Trust But Verify",
+            "overview": "The next person on Arrow's list is Diggle's commanding officer and mentor from Afghanistan, Ted Gaynor. Oliver suspects Ted is responsible for recent armoured truck robberies, but Diggle defends Ted and takes a job at Ted's security company to keep an eye on him. Oliver decides to make a move on Ted, which puts him at odds with Diggle. Meanwhile, Thea suspects that Moira is having an affair with Malcom. Tommy and Laurel have an awkward dinner with Malcom.",
+            "production_code": "2J7311",
+            "season_number": 1,
+            "show_id": 1412,
+            "still_path": "/6WsgWOZ91lV8oJodxwM3vl5KSxw.jpg",
+            "vote_average": 6.818,
+            "vote_count": 11,
+            "crew": [
+                {
+                    "id": 1224070,
+                    "credit_id": "55ae7ca19251411e0f00ada2",
+                    "name": "Gabrielle G. Stanton",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 139651,
+                    "credit_id": "55ae7cc59251411e0b00aace",
+                    "name": "Nick Copus",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 2,
+                    "profile_path": "/hUnHN4dAyn7rB0S9fhWBpNtcqRq.jpg"
+                },
+                {
+                    "id": 1212199,
+                    "credit_id": "588e5fe1925141184800f73d",
+                    "name": "Moira Kirland",
+                    "department": "Production",
+                    "job": "Co-Executive Producer",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 1379807,
+                    "credit_id": "588e52bec3a368749700e42f",
+                    "name": "Drew Z. Greenberg",
+                    "department": "Production",
+                    "job": "Co-Executive Producer",
+                    "gender": 0,
+                    "profile_path": "/2ePdjjMbVJV8xgu3rvKJLsOnL6H.jpg"
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 1224027,
+                    "name": "Emily Bett Rickards",
+                    "credit_id": "5256ce3b19c2956ff6082a5d",
+                    "character": "Felicity Smoak",
+                    "order": 1,
+                    "gender": 1,
+                    "profile_path": "/zkx3Xwy7w4hFpBNnvfFsKOBQP9V.jpg"
+                },
+                {
+                    "id": 168554,
+                    "name": "Christie Laing",
+                    "credit_id": "55578577c3a368777400650d",
+                    "character": "Carly Diggle",
+                    "order": 21,
+                    "gender": 0,
+                    "profile_path": "/vdhQtqfz6FooxMEZbjXW2U1j4eD.jpg"
+                },
+                {
+                    "id": 1264234,
+                    "name": "Sebastian Dunn",
+                    "credit_id": "5571e1a39251416cd5001d65",
+                    "character": "Edward Fyers",
+                    "order": 34,
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 57748,
+                    "name": "Byron Mann",
+                    "credit_id": "56491009c3a3682605008941",
+                    "character": "Yao Fei",
+                    "order": 77,
+                    "gender": 2,
+                    "profile_path": "/aaF0PYLbw8nH54wm9vO5tJ8oyfH.jpg"
+                },
+                {
+                    "id": 26048,
+                    "name": "Ben Browder",
+                    "credit_id": "56cc5fcdc3a36865eb002a61",
+                    "character": "Ted Gaynor",
+                    "order": 108,
+                    "gender": 2,
+                    "profile_path": "/uUFV9hqLUDwT0qsXGqx2KUzfVbO.jpg"
+                },
+                {
+                    "id": 37696,
+                    "name": "Colin Lawrence",
+                    "credit_id": "56cc5fec92514124570026a5",
+                    "character": "Paul Knox",
+                    "order": 109,
+                    "gender": 2,
+                    "profile_path": "/4RpYM2hJNQXTzqDfVlv4NSAd6GG.jpg"
+                },
+                {
+                    "id": 182287,
+                    "name": "John Barrowman",
+                    "credit_id": "563d43e39251413b1300a44b",
+                    "character": "Malcolm Merlyn",
+                    "order": 286,
+                    "gender": 2,
+                    "profile_path": "/bqORM8i3H0EFc8UqYMUpFZNA8u6.jpg"
+                }
+            ]
+        },
+        {
+            "air_date": "2013-01-30",
+            "episode_number": 12,
+            "id": 64124,
+            "name": "Vertigo",
+            "overview": "Thea is in trouble with the police after she gets caught using a drug called \"Vertigo.\" Oliver thinks the only way to keep her out of jail is to find the dealer, a man who goes by the name of \"The Count\". Oliver turns to McKenna Hall, an old flame and current Vice cop, for help. Meanwhile, Laurel steps in to defend Thea, and Felicity gives Oliver some disturbing news about Moira.",
+            "production_code": "2J7312",
+            "season_number": 1,
+            "show_id": 1412,
+            "still_path": "/rrq3Pk6XAc3xCX7w46C45F8cH5.jpg",
+            "vote_average": 7.5,
+            "vote_count": 10,
+            "crew": [
+                {
+                    "id": 1219584,
+                    "credit_id": "543164b6c3a36831a60035e5",
+                    "name": "Wendey Stanzler",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 0,
+                    "profile_path": "/62nPDt8NaPenPm9SBIP3CzfXPK2.jpg"
+                },
+                {
+                    "id": 1371443,
+                    "credit_id": "5431b5650e0a2656e2002720",
+                    "name": "Wendy Mericle",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 1,
+                    "profile_path": null
+                },
+                {
+                    "id": 1212199,
+                    "credit_id": "588e5fe1925141184800f73d",
+                    "name": "Moira Kirland",
+                    "department": "Production",
+                    "job": "Co-Executive Producer",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 1379807,
+                    "credit_id": "588e52bec3a368749700e42f",
+                    "name": "Drew Z. Greenberg",
+                    "department": "Production",
+                    "job": "Co-Executive Producer",
+                    "gender": 0,
+                    "profile_path": "/2ePdjjMbVJV8xgu3rvKJLsOnL6H.jpg"
+                },
+                {
+                    "id": 1371444,
+                    "credit_id": "5431b5b00e0a264643003ddf",
+                    "name": "Ben Sokolowski",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 2,
+                    "profile_path": null
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 1224027,
+                    "name": "Emily Bett Rickards",
+                    "credit_id": "5256ce3b19c2956ff6082a5d",
+                    "character": "Felicity Smoak",
+                    "order": 1,
+                    "gender": 1,
+                    "profile_path": "/zkx3Xwy7w4hFpBNnvfFsKOBQP9V.jpg"
+                },
+                {
+                    "id": 38888,
+                    "name": "Seth Gabel",
+                    "credit_id": "5518b21dc3a3681f84001584",
+                    "character": "The Count",
+                    "order": 16,
+                    "gender": 2,
+                    "profile_path": "/luxC39d38CENJY01TeHJb4M9CFk.jpg"
+                },
+                {
+                    "id": 1264234,
+                    "name": "Sebastian Dunn",
+                    "credit_id": "5571e1a39251416cd5001d65",
+                    "character": "Edward Fyers",
+                    "order": 34,
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 28871,
+                    "name": "Eugene Lipinski",
+                    "credit_id": "55ae6c41c3a368246c0052ae",
+                    "character": "Alexi Leonov",
+                    "order": 37,
+                    "gender": 2,
+                    "profile_path": "/rhpOJsibsqA4SG71GcH0LMfnygd.jpg"
+                },
+                {
+                    "id": 210665,
+                    "name": "Janina Gavankar",
+                    "credit_id": "55aecb149251411e0f00b431",
+                    "character": "Detective McKenna Hall",
+                    "order": 44,
+                    "gender": 1,
+                    "profile_path": "/3lj5jZFvjjc4XD6pdykMdgyPREp.jpg"
+                },
+                {
+                    "id": 57748,
+                    "name": "Byron Mann",
+                    "credit_id": "56491009c3a3682605008941",
+                    "character": "Yao Fei",
+                    "order": 77,
+                    "gender": 2,
+                    "profile_path": "/aaF0PYLbw8nH54wm9vO5tJ8oyfH.jpg"
+                },
+                {
+                    "id": 41746,
+                    "name": "Serge Houde",
+                    "credit_id": "56cc607392514124570026c1",
+                    "character": "Judge Brackett",
+                    "order": 110,
+                    "gender": 2,
+                    "profile_path": "/ihnfayL0UZZicYeOZMPgpelATi4.jpg"
+                },
+                {
+                    "id": 52457,
+                    "name": "Eileen Pedde",
+                    "credit_id": "58879fe9c3a36859ec001429",
+                    "character": "Doctor",
+                    "order": 145,
+                    "gender": 1,
+                    "profile_path": "/pPrvpJqNN0teedsj1A8f93KUmxk.jpg"
+                }
+            ]
+        },
+        {
+            "air_date": "2013-02-06",
+            "episode_number": 13,
+            "id": 64125,
+            "name": "Betrayal",
+            "overview": "Cyrus Vanch, a nefarious criminal, is recently released from prison and intends to re-secure his position as leader of the underworld. His first step is to take down his biggest opponent in the city - Arrow. Meanwhile, Oliver shows Moira his father's notebook and questions her about the names on the list. Thea is miserable as she starts her internship with Laurel at the legal aid office and Detective Lance makes a deadly mistake that puts Laurel in the crosshairs of Vanch.",
+            "production_code": "2J7313",
+            "season_number": 1,
+            "show_id": 1412,
+            "still_path": "/iF9KJ74o7FKmIoKjFO3N6XTWpP0.jpg",
+            "vote_average": 7.8,
+            "vote_count": 10,
+            "crew": [
+                {
+                    "id": 1489089,
+                    "credit_id": "55ae6cecc3a3682ff400c168",
+                    "name": "Lana Cho",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 130533,
+                    "credit_id": "5256ce3419c2956ff6082676",
+                    "name": "Guy Norman Bee",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 1489112,
+                    "credit_id": "55ae7a489251411e1400adf4",
+                    "name": "Beth Schwartz",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 1,
+                    "profile_path": null
+                },
+                {
+                    "id": 1212199,
+                    "credit_id": "588e5fe1925141184800f73d",
+                    "name": "Moira Kirland",
+                    "department": "Production",
+                    "job": "Co-Executive Producer",
+                    "gender": 1,
+                    "profile_path": null
+                },
+                {
+                    "id": 1379807,
+                    "credit_id": "588e52bec3a368749700e42f",
+                    "name": "Drew Z. Greenberg",
+                    "department": "Production",
+                    "job": "Co-Executive Producer",
+                    "gender": 2,
+                    "profile_path": "/2ePdjjMbVJV8xgu3rvKJLsOnL6H.jpg"
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 40632,
+                    "name": "David Anders",
+                    "credit_id": "54bbf0dd9251416eae001c0b",
+                    "character": "Cyrus Vanch",
+                    "order": 10,
+                    "gender": 2,
+                    "profile_path": "/2RNhAChrrLLyMS8GEoEIGxEdClV.jpg"
+                },
+                {
+                    "id": 25877,
+                    "name": "Roger Cross",
+                    "credit_id": "55ae6ca5c3a368300200a9c1",
+                    "character": "Detective Lucas Hilton",
+                    "order": 38,
+                    "gender": 2,
+                    "profile_path": "/cyd6iZZArmXmuAyxxJkodfMiMDs.jpg"
+                },
+                {
+                    "id": 41782,
+                    "name": "Manu Bennett",
+                    "credit_id": "563d447bc3a3681b5402a6b1",
+                    "character": "Slade Wilson",
+                    "order": 71,
+                    "gender": 2,
+                    "profile_path": "/r9P5l3CgpqpEr4ATbv8AMFqOiF.jpg"
+                },
+                {
+                    "id": 62173,
+                    "name": "Agam Darshi",
+                    "credit_id": "5887ac5892514163060020eb",
+                    "character": "Anastacia",
+                    "order": 146,
+                    "gender": 1,
+                    "profile_path": "/iwEfliScP3IcfDqBC7lgIRS64Kr.jpg"
+                },
+                {
+                    "id": 67978,
+                    "name": "Ona Grauer",
+                    "credit_id": "5887ac6192514162f2001ee0",
+                    "character": "Vivian",
+                    "order": 147,
+                    "gender": 1,
+                    "profile_path": "/5BWSjBRrNzazzlIXgVeaSk4cNyq.jpg"
+                },
+                {
+                    "id": 33348,
+                    "name": "Adrian Holmes",
+                    "credit_id": "56f38e67c3a3682fd2001f1f",
+                    "character": "Frank Pike",
+                    "order": 281,
+                    "gender": 2,
+                    "profile_path": "/8gfuxasIm5nPx0FccAJQ6JaYxcy.jpg"
+                },
+                {
+                    "id": 182287,
+                    "name": "John Barrowman",
+                    "credit_id": "563d43e39251413b1300a44b",
+                    "character": "Malcolm Merlyn",
+                    "order": 286,
+                    "gender": 2,
+                    "profile_path": "/bqORM8i3H0EFc8UqYMUpFZNA8u6.jpg"
+                }
+            ]
+        },
+        {
+            "air_date": "2013-02-13",
+            "episode_number": 14,
+            "id": 64122,
+            "name": "The Odyssey",
+            "overview": "After Oliver is shot, he turns to a surprising person for help - Felicity. Diggle is stunned when he sees Felicity walk through the front door of the lair dragging a dying Oliver behind her, and the two team up to save Oliver's life. As Oliver hovers between life and death, he flashes back to a seminal event on the island - a daring escape attempt with his new friend Slade Wilson.",
+            "production_code": "2J7314",
+            "season_number": 1,
+            "show_id": 1412,
+            "still_path": "/5mposS5Uyvy5LQ2467e2U4NN2FE.jpg",
+            "vote_average": 7.333,
+            "vote_count": 12,
+            "crew": [
+                {
+                    "id": 1216615,
+                    "credit_id": "562e67f8c3a3681b5200b0b0",
+                    "name": "Andrew Kreisberg",
+                    "department": "Writing",
+                    "job": "Teleplay",
+                    "gender": 2,
+                    "profile_path": "/giFmwdBAw6uwC8yeHPaW6dq6YT8.jpg"
+                },
+                {
+                    "id": 1216615,
+                    "credit_id": "55d34d6cc3a3680b1a000103",
+                    "name": "Andrew Kreisberg",
+                    "department": "Writing",
+                    "job": "Story",
+                    "gender": 2,
+                    "profile_path": "/giFmwdBAw6uwC8yeHPaW6dq6YT8.jpg"
+                },
+                {
+                    "id": 171830,
+                    "credit_id": "55d34d36c3a3680b0b0000db",
+                    "name": "Marc Guggenheim",
+                    "department": "Writing",
+                    "job": "Teleplay",
+                    "gender": 2,
+                    "profile_path": "/1nCTlHZ37IjpUlJbQv68iizYdX5.jpg"
+                },
+                {
+                    "id": 1215006,
+                    "credit_id": "5256ce3519c2956ff60826f8",
+                    "name": "John Behring",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 2,
+                    "profile_path": "/5FthcEQTiVLn50daWXLYB07HyqB.jpg"
+                },
+                {
+                    "id": 88967,
+                    "credit_id": "55d34d63c3a3680aff00012a",
+                    "name": "Greg Berlanti",
+                    "department": "Writing",
+                    "job": "Story",
+                    "gender": 2,
+                    "profile_path": "/AbocIYSo4KXx7nT6lz2dj3qMD8H.jpg"
+                },
+                {
+                    "id": 208523,
+                    "credit_id": "588e527ec3a368749400dd45",
+                    "name": "Jake Coburn",
+                    "department": "Production",
+                    "job": "Supervising Producer",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 1212199,
+                    "credit_id": "588e5fe1925141184800f73d",
+                    "name": "Moira Kirland",
+                    "department": "Production",
+                    "job": "Co-Executive Producer",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 1379807,
+                    "credit_id": "588e52bec3a368749700e42f",
+                    "name": "Drew Z. Greenberg",
+                    "department": "Production",
+                    "job": "Co-Executive Producer",
+                    "gender": 0,
+                    "profile_path": "/2ePdjjMbVJV8xgu3rvKJLsOnL6H.jpg"
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 1224027,
+                    "name": "Emily Bett Rickards",
+                    "credit_id": "5256ce3b19c2956ff6082a5d",
+                    "character": "Felicity Smoak",
+                    "order": 1,
+                    "gender": 1,
+                    "profile_path": "/zkx3Xwy7w4hFpBNnvfFsKOBQP9V.jpg"
+                },
+                {
+                    "id": 1224028,
+                    "name": "Celina Jade",
+                    "credit_id": "5256ce3d19c2956ff6082b8f",
+                    "character": "Shado",
+                    "order": 15,
+                    "gender": 1,
+                    "profile_path": "/7ZY6xC4AupLjnupwkFYZMjBwQwJ.jpg"
+                },
+                {
+                    "id": 1264234,
+                    "name": "Sebastian Dunn",
+                    "credit_id": "5571e1a39251416cd5001d65",
+                    "character": "Edward Fyers",
+                    "order": 34,
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 41782,
+                    "name": "Manu Bennett",
+                    "credit_id": "563d447bc3a3681b5402a6b1",
+                    "character": "Slade Wilson",
+                    "order": 71,
+                    "gender": 2,
+                    "profile_path": "/r9P5l3CgpqpEr4ATbv8AMFqOiF.jpg"
+                },
+                {
+                    "id": 57748,
+                    "name": "Byron Mann",
+                    "credit_id": "56491009c3a3682605008941",
+                    "character": "Yao Fei",
+                    "order": 77,
+                    "gender": 2,
+                    "profile_path": "/aaF0PYLbw8nH54wm9vO5tJ8oyfH.jpg"
+                }
+            ]
+        },
+        {
+            "air_date": "2013-02-20",
+            "episode_number": 15,
+            "id": 64123,
+            "name": "Dodger",
+            "overview": "Felicity tells Oliver he's all work and no play, so he asks Detective McKenna on a date. A jewel thief named Dodger hits Starling City and targets someone very close to Oliver. Meanwhile, while working with Laurel, Thea gets her purse stolen by a very fast pickpocket named Roy Harper. Moira makes a move against Malcom.",
+            "production_code": "2J7315",
+            "season_number": 1,
+            "show_id": 1412,
+            "still_path": "/zw5UohXDBs9Ko5s2ZxmPL6E7VoB.jpg",
+            "vote_average": 6.455,
+            "vote_count": 11,
+            "crew": [
+                {
+                    "id": 205641,
+                    "credit_id": "55b028939251411e0f00d06b",
+                    "name": "Eagle Egilsson",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 2,
+                    "profile_path": "/wRhJa1FJxv7yeRkWCzwJ4S1THmJ.jpg"
+                },
+                {
+                    "id": 1489112,
+                    "credit_id": "55ae7a489251411e1400adf4",
+                    "name": "Beth Schwartz",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 1,
+                    "profile_path": null
+                },
+                {
+                    "id": 208523,
+                    "credit_id": "588e527ec3a368749400dd45",
+                    "name": "Jake Coburn",
+                    "department": "Production",
+                    "job": "Supervising Producer",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 1212199,
+                    "credit_id": "588e5fe1925141184800f73d",
+                    "name": "Moira Kirland",
+                    "department": "Production",
+                    "job": "Co-Executive Producer",
+                    "gender": 1,
+                    "profile_path": null
+                },
+                {
+                    "id": 1379807,
+                    "credit_id": "588e52bec3a368749700e42f",
+                    "name": "Drew Z. Greenberg",
+                    "department": "Production",
+                    "job": "Co-Executive Producer",
+                    "gender": 2,
+                    "profile_path": "/2ePdjjMbVJV8xgu3rvKJLsOnL6H.jpg"
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 1224027,
+                    "name": "Emily Bett Rickards",
+                    "credit_id": "5256ce3b19c2956ff6082a5d",
+                    "character": "Felicity Smoak",
+                    "order": 1,
+                    "gender": 1,
+                    "profile_path": "/zkx3Xwy7w4hFpBNnvfFsKOBQP9V.jpg"
+                },
+                {
+                    "id": 101015,
+                    "name": "Chin Han",
+                    "credit_id": "54bf66d9c3a3686c6100e4b1",
+                    "character": "Frank Chen",
+                    "order": 11,
+                    "gender": 2,
+                    "profile_path": "/xvMCVDvrQ2WlAB2LmkG6HAzlYag.jpg"
+                },
+                {
+                    "id": 168554,
+                    "name": "Christie Laing",
+                    "credit_id": "55578577c3a368777400650d",
+                    "character": "Carly Diggle",
+                    "order": 21,
+                    "gender": 0,
+                    "profile_path": "/vdhQtqfz6FooxMEZbjXW2U1j4eD.jpg"
+                },
+                {
+                    "id": 210665,
+                    "name": "Janina Gavankar",
+                    "credit_id": "55aecb149251411e0f00b431",
+                    "character": "Detective McKenna Hall",
+                    "order": 44,
+                    "gender": 1,
+                    "profile_path": "/3lj5jZFvjjc4XD6pdykMdgyPREp.jpg"
+                },
+                {
+                    "id": 41782,
+                    "name": "Manu Bennett",
+                    "credit_id": "563d447bc3a3681b5402a6b1",
+                    "character": "Slade Wilson",
+                    "order": 71,
+                    "gender": 2,
+                    "profile_path": "/r9P5l3CgpqpEr4ATbv8AMFqOiF.jpg"
+                },
+                {
+                    "id": 211800,
+                    "name": "Colton Haynes",
+                    "credit_id": "56995db0925141193e0001dd",
+                    "character": "Roy Harper",
+                    "order": 80,
+                    "gender": 2,
+                    "profile_path": "/gBWDLczwlKDrWcgI8MY126GehEt.jpg"
+                },
+                {
+                    "id": 9145,
+                    "name": "James Callis",
+                    "credit_id": "56cc61d1c3a36865df0026bd",
+                    "character": "El Evasor",
+                    "order": 112,
+                    "gender": 2,
+                    "profile_path": "/dLmmQU5hA0J6Jxi20aS8kdN6k3o.jpg"
+                },
+                {
+                    "id": 62717,
+                    "name": "Rekha Sharma",
+                    "credit_id": "56cc628492514124610027f1",
+                    "character": "Claire Abott",
+                    "order": 114,
+                    "gender": 1,
+                    "profile_path": "/3qLo8UbKs26n7g1oyKHckNH1IvU.jpg"
+                },
+                {
+                    "id": 939589,
+                    "name": "Jarod Joseph",
+                    "credit_id": "56cc6214925141245200272c",
+                    "character": "Alan Durand",
+                    "order": 288,
+                    "gender": 2,
+                    "profile_path": "/6QopNtsLPP63IaQgqfNweJEV67t.jpg"
+                },
+                {
+                    "id": 11024,
+                    "name": "Kelly Hu",
+                    "credit_id": "5256ce3b19c2956ff6082b2f",
+                    "character": "China White",
+                    "order": 289,
+                    "gender": 1,
+                    "profile_path": "/2s8l6WvXyoDf0RbLeFGZvEclmds.jpg"
+                }
+            ]
+        },
+        {
+            "air_date": "2013-02-27",
+            "episode_number": 16,
+            "id": 64126,
+            "name": "Dead to Rights",
+            "overview": "Oliver and Diggle learn that Deadshot is still alive and his next target is Malcom. Malcom invites Tommy to attend a benefit honoring Malcom for his work with Starling City but Tommy refuses to attend. Oliver encourages his friend to mend his relationship with his father while he can. Meanwhile, Oliver struggles to balance his new relationship with McKenna and his duties as Arrow.",
+            "production_code": "2J7316",
+            "season_number": 1,
+            "show_id": 1412,
+            "still_path": "/eQizajQbKrMNOtgTPmuHJBbmR25.jpg",
+            "vote_average": 7.2,
+            "vote_count": 10,
+            "crew": [
+                {
+                    "id": 211962,
+                    "credit_id": "55b02245c3a3682d6300a08c",
+                    "name": "Geoff Johns",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 2,
+                    "profile_path": "/1hiQjkIkeFoiwvD4yIk2Dq6tnOa.jpg"
+                },
+                {
+                    "id": 203444,
+                    "credit_id": "543163ef0e0a265694001f77",
+                    "name": "Glen Winter",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 208523,
+                    "credit_id": "588e527ec3a368749400dd45",
+                    "name": "Jake Coburn",
+                    "department": "Production",
+                    "job": "Supervising Producer",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 1379807,
+                    "credit_id": "588e52bec3a368749700e42f",
+                    "name": "Drew Z. Greenberg",
+                    "department": "Production",
+                    "job": "Co-Executive Producer",
+                    "gender": 2,
+                    "profile_path": "/2ePdjjMbVJV8xgu3rvKJLsOnL6H.jpg"
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 1224027,
+                    "name": "Emily Bett Rickards",
+                    "credit_id": "5256ce3b19c2956ff6082a5d",
+                    "character": "Felicity Smoak",
+                    "order": 1,
+                    "gender": 1,
+                    "profile_path": "/zkx3Xwy7w4hFpBNnvfFsKOBQP9V.jpg"
+                },
+                {
+                    "id": 101015,
+                    "name": "Chin Han",
+                    "credit_id": "54bf66d9c3a3686c6100e4b1",
+                    "character": "Frank Chen",
+                    "order": 11,
+                    "gender": 2,
+                    "profile_path": "/xvMCVDvrQ2WlAB2LmkG6HAzlYag.jpg"
+                },
+                {
+                    "id": 1467737,
+                    "name": "Michael Rowe",
+                    "credit_id": "5557851a9251411e62006187",
+                    "character": "Floyd Lawton / Deadshot",
+                    "order": 20,
+                    "gender": 0,
+                    "profile_path": "/tHxNr3mH5l4qmkF6MtnkqlaHzyL.jpg"
+                },
+                {
+                    "id": 83701,
+                    "name": "Alex Kingston",
+                    "credit_id": "5558dc2ec3a368777e008c6c",
+                    "character": "Dinah Lance",
+                    "order": 23,
+                    "gender": 1,
+                    "profile_path": "/ILVF4kVf7asMOQ9J7mq50TbyPL.jpg"
+                },
+                {
+                    "id": 210665,
+                    "name": "Janina Gavankar",
+                    "credit_id": "55aecb149251411e0f00b431",
+                    "character": "Detective McKenna Hall",
+                    "order": 44,
+                    "gender": 1,
+                    "profile_path": "/3lj5jZFvjjc4XD6pdykMdgyPREp.jpg"
+                },
+                {
+                    "id": 41782,
+                    "name": "Manu Bennett",
+                    "credit_id": "563d447bc3a3681b5402a6b1",
+                    "character": "Slade Wilson",
+                    "order": 71,
+                    "gender": 2,
+                    "profile_path": "/r9P5l3CgpqpEr4ATbv8AMFqOiF.jpg"
+                },
+                {
+                    "id": 1179445,
+                    "name": "George Tchortov",
+                    "credit_id": "56cc635ac3a36865e10027fc",
+                    "character": "Guillermo Barrera",
+                    "order": 116,
+                    "gender": 0,
+                    "profile_path": "/uZDfTdJiQQIhOVqSELlaxyUxpkO.jpg"
+                },
+                {
+                    "id": 33348,
+                    "name": "Adrian Holmes",
+                    "credit_id": "56f38e67c3a3682fd2001f1f",
+                    "character": "Frank Pike",
+                    "order": 281,
+                    "gender": 2,
+                    "profile_path": "/8gfuxasIm5nPx0FccAJQ6JaYxcy.jpg"
+                },
+                {
+                    "id": 182287,
+                    "name": "John Barrowman",
+                    "credit_id": "563d43e39251413b1300a44b",
+                    "character": "Malcolm Merlyn",
+                    "order": 286,
+                    "gender": 2,
+                    "profile_path": "/bqORM8i3H0EFc8UqYMUpFZNA8u6.jpg"
+                },
+                {
+                    "id": 11024,
+                    "name": "Kelly Hu",
+                    "credit_id": "5256ce3b19c2956ff6082b2f",
+                    "character": "China White",
+                    "order": 289,
+                    "gender": 1,
+                    "profile_path": "/2s8l6WvXyoDf0RbLeFGZvEclmds.jpg"
+                }
+            ]
+        },
+        {
+            "air_date": "2013-03-20",
+            "episode_number": 17,
+            "id": 64127,
+            "name": "The Huntress Returns",
+            "overview": "With his nightclub set to open and a new romance brewing with McKenna, Oliver is as happy as he's been since returning to Starling City. But when Oliver's ex, The Huntress, suddenly returns to town, she threatens to destroy everything and everyone he cares about. Meanwhile, Laurel and her father struggle with the return of Dinah Lance who claims she has proof Sara is still alive. Thea gets Roy Harper a job at Oliver's club, but he's not too inclined to stop his life of crime. Oliver and Tommy are thrilled they were able to get Steve Aoki to play at the opening of their new nightclub, Verdant.",
+            "production_code": "2J7317",
+            "season_number": 1,
+            "show_id": 1412,
+            "still_path": "/jdTC8bAjFI6QOyi5KqLqacUEJ9W.jpg",
+            "vote_average": 7.143,
+            "vote_count": 14,
+            "crew": [
+                {
+                    "id": 1489089,
+                    "credit_id": "55ae6cecc3a3682ff400c168",
+                    "name": "Lana Cho",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 130533,
+                    "credit_id": "5256ce3419c2956ff6082676",
+                    "name": "Guy Norman Bee",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 208523,
+                    "credit_id": "543164c60e0a265872001e5b",
+                    "name": "Jake Coburn",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 208523,
+                    "credit_id": "588e527ec3a368749400dd45",
+                    "name": "Jake Coburn",
+                    "department": "Production",
+                    "job": "Supervising Producer",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 1379807,
+                    "credit_id": "588e52bec3a368749700e42f",
+                    "name": "Drew Z. Greenberg",
+                    "department": "Production",
+                    "job": "Co-Executive Producer",
+                    "gender": 0,
+                    "profile_path": "/2ePdjjMbVJV8xgu3rvKJLsOnL6H.jpg"
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 1224027,
+                    "name": "Emily Bett Rickards",
+                    "credit_id": "5256ce3b19c2956ff6082a5d",
+                    "character": "Felicity Smoak",
+                    "order": 1,
+                    "gender": 1,
+                    "profile_path": "/zkx3Xwy7w4hFpBNnvfFsKOBQP9V.jpg"
+                },
+                {
+                    "id": 1101349,
+                    "name": "Steve Aoki",
+                    "credit_id": "54b42f9bc3a368210c003ab3",
+                    "character": "Himself",
+                    "order": 8,
+                    "gender": 0,
+                    "profile_path": "/duWt3sGDseLMvcFWVJe3de9lV8Y.jpg"
+                },
+                {
+                    "id": 1196822,
+                    "name": "Jessica De Gouw",
+                    "credit_id": "55578f4a9251411e5700679d",
+                    "character": "Helena Bertinelli / The Huntress",
+                    "order": 22,
+                    "gender": 1,
+                    "profile_path": "/eh0lOvB6ZLBepitFhCx1u7w6Hs6.jpg"
+                },
+                {
+                    "id": 83701,
+                    "name": "Alex Kingston",
+                    "credit_id": "5558dc2ec3a368777e008c6c",
+                    "character": "Dinah Lance",
+                    "order": 23,
+                    "gender": 1,
+                    "profile_path": "/ILVF4kVf7asMOQ9J7mq50TbyPL.jpg"
+                },
+                {
+                    "id": 1264234,
+                    "name": "Sebastian Dunn",
+                    "credit_id": "5571e1a39251416cd5001d65",
+                    "character": "Edward Fyers",
+                    "order": 34,
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 210665,
+                    "name": "Janina Gavankar",
+                    "credit_id": "55aecb149251411e0f00b431",
+                    "character": "Detective McKenna Hall",
+                    "order": 44,
+                    "gender": 1,
+                    "profile_path": "/3lj5jZFvjjc4XD6pdykMdgyPREp.jpg"
+                },
+                {
+                    "id": 41782,
+                    "name": "Manu Bennett",
+                    "credit_id": "563d447bc3a3681b5402a6b1",
+                    "character": "Slade Wilson",
+                    "order": 71,
+                    "gender": 2,
+                    "profile_path": "/r9P5l3CgpqpEr4ATbv8AMFqOiF.jpg"
+                },
+                {
+                    "id": 211800,
+                    "name": "Colton Haynes",
+                    "credit_id": "56995db0925141193e0001dd",
+                    "character": "Roy Harper",
+                    "order": 80,
+                    "gender": 2,
+                    "profile_path": "/gBWDLczwlKDrWcgI8MY126GehEt.jpg"
+                },
+                {
+                    "id": 61164,
+                    "name": "Craig March",
+                    "credit_id": "588e5125925141184800ef41",
+                    "character": "Gus Sabatoni",
+                    "order": 148,
+                    "gender": 2,
+                    "profile_path": "/w1C567OoZDQZltGTRmEYeqCgxoF.jpg"
+                }
+            ]
+        },
+        {
+            "air_date": "2013-03-27",
+            "episode_number": 18,
+            "id": 64128,
+            "name": "Salvation",
+            "overview": "An angry resident of The Glades who calls himself \"The Savior\" embarks on a kidnapping and killing spree to punish those he believes have wronged the residents of his neighborhood. To make things worse, he broadcasts these murders online and claims he was inspired by Arrow's vigilantism. Oliver is horrified by this statement and vows to stop \"The Savior,\" but his manhunt in intensified after Thea comes to him in tears and tells him Roy has been kidnapped. Laurel is surprised when her father starts to believe her mother's claim that Sara is still alive. Meanwhile, Malcom  tells Moira to find the person responsible for his attempted murder.",
+            "production_code": "2J7318",
+            "season_number": 1,
+            "show_id": 1412,
+            "still_path": "/grBk2rk97jXqsZgpaczrYvnrccW.jpg",
+            "vote_average": 7.077,
+            "vote_count": 13,
+            "crew": [
+                {
+                    "id": 1379807,
+                    "credit_id": "55b02333c3a3682ff900c090",
+                    "name": "Drew Z. Greenberg",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 0,
+                    "profile_path": "/2ePdjjMbVJV8xgu3rvKJLsOnL6H.jpg"
+                },
+                {
+                    "id": 139651,
+                    "credit_id": "55ae7cc59251411e0b00aace",
+                    "name": "Nick Copus",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 2,
+                    "profile_path": "/hUnHN4dAyn7rB0S9fhWBpNtcqRq.jpg"
+                },
+                {
+                    "id": 1371443,
+                    "credit_id": "5431b5650e0a2656e2002720",
+                    "name": "Wendy Mericle",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 1,
+                    "profile_path": null
+                },
+                {
+                    "id": 208523,
+                    "credit_id": "588e527ec3a368749400dd45",
+                    "name": "Jake Coburn",
+                    "department": "Production",
+                    "job": "Supervising Producer",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 1379807,
+                    "credit_id": "588e52bec3a368749700e42f",
+                    "name": "Drew Z. Greenberg",
+                    "department": "Production",
+                    "job": "Co-Executive Producer",
+                    "gender": 0,
+                    "profile_path": "/2ePdjjMbVJV8xgu3rvKJLsOnL6H.jpg"
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 1224027,
+                    "name": "Emily Bett Rickards",
+                    "credit_id": "5256ce3b19c2956ff6082a5d",
+                    "character": "Felicity Smoak",
+                    "order": 1,
+                    "gender": 1,
+                    "profile_path": "/zkx3Xwy7w4hFpBNnvfFsKOBQP9V.jpg"
+                },
+                {
+                    "id": 101015,
+                    "name": "Chin Han",
+                    "credit_id": "54bf66d9c3a3686c6100e4b1",
+                    "character": "Frank Chen",
+                    "order": 11,
+                    "gender": 2,
+                    "profile_path": "/xvMCVDvrQ2WlAB2LmkG6HAzlYag.jpg"
+                },
+                {
+                    "id": 1224028,
+                    "name": "Celina Jade",
+                    "credit_id": "5256ce3d19c2956ff6082b8f",
+                    "character": "Shado",
+                    "order": 15,
+                    "gender": 1,
+                    "profile_path": "/7ZY6xC4AupLjnupwkFYZMjBwQwJ.jpg"
+                },
+                {
+                    "id": 83701,
+                    "name": "Alex Kingston",
+                    "credit_id": "5558dc2ec3a368777e008c6c",
+                    "character": "Dinah Lance",
+                    "order": 23,
+                    "gender": 1,
+                    "profile_path": "/ILVF4kVf7asMOQ9J7mq50TbyPL.jpg"
+                },
+                {
+                    "id": 1264234,
+                    "name": "Sebastian Dunn",
+                    "credit_id": "5571e1a39251416cd5001d65",
+                    "character": "Edward Fyers",
+                    "order": 34,
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 41782,
+                    "name": "Manu Bennett",
+                    "credit_id": "563d447bc3a3681b5402a6b1",
+                    "character": "Slade Wilson",
+                    "order": 71,
+                    "gender": 2,
+                    "profile_path": "/r9P5l3CgpqpEr4ATbv8AMFqOiF.jpg"
+                },
+                {
+                    "id": 57748,
+                    "name": "Byron Mann",
+                    "credit_id": "56491009c3a3682605008941",
+                    "character": "Yao Fei",
+                    "order": 77,
+                    "gender": 2,
+                    "profile_path": "/aaF0PYLbw8nH54wm9vO5tJ8oyfH.jpg"
+                },
+                {
+                    "id": 211800,
+                    "name": "Colton Haynes",
+                    "credit_id": "56995db0925141193e0001dd",
+                    "character": "Roy Harper",
+                    "order": 80,
+                    "gender": 2,
+                    "profile_path": "/gBWDLczwlKDrWcgI8MY126GehEt.jpg"
+                },
+                {
+                    "id": 32204,
+                    "name": "Christopher Redman",
+                    "credit_id": "56cc6414c3a36865db0027f7",
+                    "character": "Joseph Falk",
+                    "order": 117,
+                    "gender": 2,
+                    "profile_path": "/d6FuOb4CZhWSmuzffz6lUekN87k.jpg"
+                },
+                {
+                    "id": 1179151,
+                    "name": "Duncan Ollerenshaw",
+                    "credit_id": "588e5f42c3a3681e1100b227",
+                    "character": "John Nickel",
+                    "order": 149,
+                    "gender": 0,
+                    "profile_path": "/mWH89KR5AHNYVcjdCTqFfcP6iyR.jpg"
+                },
+                {
+                    "id": 182287,
+                    "name": "John Barrowman",
+                    "credit_id": "563d43e39251413b1300a44b",
+                    "character": "Malcolm Merlyn",
+                    "order": 286,
+                    "gender": 2,
+                    "profile_path": "/bqORM8i3H0EFc8UqYMUpFZNA8u6.jpg"
+                }
+            ]
+        },
+        {
+            "air_date": "2013-04-03",
+            "episode_number": 19,
+            "id": 64129,
+            "name": "Unfinished Business",
+            "overview": "When a young woman meets a violent death after partying at Verdant, Detective Lance and his new partner, Detective Hilton inform Oliver and Tommy that she was on the drug Vertigo. Oliver immediately pays a visit to the mental institution where The Count is locked up, but finds he is in no condition to deal drugs. However, when The Count escapes and Starling City is flooded with even more Vertigo-related violence, Oliver and Diggle make it their mission to track him down. After Detective Lance uncovers incriminating evidence against him, Tommy goes to great lengths to clear his name, and the fallout from his actions leads Tommy down a new, unexpected path. In a flashback to the island, Oliver recalls the lessons he learned from Slade and Shado.",
+            "production_code": "2J7319",
+            "season_number": 1,
+            "show_id": 1412,
+            "still_path": "/y7sWDvX9QgzKaEVjm1TOWrNPPeA.jpg",
+            "vote_average": 7.444,
+            "vote_count": 9,
+            "crew": [
+                {
+                    "id": 166757,
+                    "credit_id": "55b0238ec3a3682d6300a0b5",
+                    "name": "Michael Offer",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 2,
+                    "profile_path": "/pdBqzlmHw9eMpQN4IgBjwUWCyab.jpg"
+                },
+                {
+                    "id": 1489548,
+                    "credit_id": "55b023dac3a3682d6300a0c4",
+                    "name": "Lindsey Allen",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 1237445,
+                    "credit_id": "55b023af92514125da00cce5",
+                    "name": "Bryan Q. Miller",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 208523,
+                    "credit_id": "588e527ec3a368749400dd45",
+                    "name": "Jake Coburn",
+                    "department": "Production",
+                    "job": "Supervising Producer",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 1379807,
+                    "credit_id": "588e52bec3a368749700e42f",
+                    "name": "Drew Z. Greenberg",
+                    "department": "Production",
+                    "job": "Co-Executive Producer",
+                    "gender": 0,
+                    "profile_path": "/2ePdjjMbVJV8xgu3rvKJLsOnL6H.jpg"
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 1224027,
+                    "name": "Emily Bett Rickards",
+                    "credit_id": "5256ce3b19c2956ff6082a5d",
+                    "character": "Felicity Smoak",
+                    "order": 1,
+                    "gender": 1,
+                    "profile_path": "/zkx3Xwy7w4hFpBNnvfFsKOBQP9V.jpg"
+                },
+                {
+                    "id": 1224028,
+                    "name": "Celina Jade",
+                    "credit_id": "5256ce3d19c2956ff6082b8f",
+                    "character": "Shado",
+                    "order": 15,
+                    "gender": 1,
+                    "profile_path": "/7ZY6xC4AupLjnupwkFYZMjBwQwJ.jpg"
+                },
+                {
+                    "id": 38888,
+                    "name": "Seth Gabel",
+                    "credit_id": "5518b21dc3a3681f84001584",
+                    "character": "The Count",
+                    "order": 16,
+                    "gender": 2,
+                    "profile_path": "/luxC39d38CENJY01TeHJb4M9CFk.jpg"
+                },
+                {
+                    "id": 168554,
+                    "name": "Christie Laing",
+                    "credit_id": "55578577c3a368777400650d",
+                    "character": "Carly Diggle",
+                    "order": 21,
+                    "gender": 0,
+                    "profile_path": "/vdhQtqfz6FooxMEZbjXW2U1j4eD.jpg"
+                },
+                {
+                    "id": 25877,
+                    "name": "Roger Cross",
+                    "credit_id": "55ae6ca5c3a368300200a9c1",
+                    "character": "Detective Lucas Hilton",
+                    "order": 38,
+                    "gender": 2,
+                    "profile_path": "/cyd6iZZArmXmuAyxxJkodfMiMDs.jpg"
+                },
+                {
+                    "id": 41782,
+                    "name": "Manu Bennett",
+                    "credit_id": "563d447bc3a3681b5402a6b1",
+                    "character": "Slade Wilson",
+                    "order": 71,
+                    "gender": 2,
+                    "profile_path": "/r9P5l3CgpqpEr4ATbv8AMFqOiF.jpg"
+                },
+                {
+                    "id": 1459145,
+                    "name": "Darren Dolynski",
+                    "credit_id": "56cc6475c3a36865e40028c8",
+                    "character": "Dr. Webb",
+                    "order": 118,
+                    "gender": 2,
+                    "profile_path": "/8ChcQBx2k4HGeMHu67Ea3Z4MABv.jpg"
+                },
+                {
+                    "id": 95413,
+                    "name": "Nelson Carter-Leis",
+                    "credit_id": "588e6b34925141183700fb10",
+                    "character": "Slim",
+                    "order": 150,
+                    "gender": 0,
+                    "profile_path": "/olMl35MmkOmOp17CC3519wG30D7.jpg"
+                },
+                {
+                    "id": 1281629,
+                    "name": "Cassandra Ebner",
+                    "credit_id": "5adb90a6c3a36862d6010526",
+                    "character": "Veronica",
+                    "order": 204,
+                    "gender": 1,
+                    "profile_path": "/ykIe7cvJjrdBgPilC5sCsZkwXCz.jpg"
+                },
+                {
+                    "id": 182287,
+                    "name": "John Barrowman",
+                    "credit_id": "563d43e39251413b1300a44b",
+                    "character": "Malcolm Merlyn",
+                    "order": 286,
+                    "gender": 2,
+                    "profile_path": "/bqORM8i3H0EFc8UqYMUpFZNA8u6.jpg"
+                },
+                {
+                    "id": 21417,
+                    "name": "Audrey Marie Anderson",
+                    "credit_id": "55650c32c3a3687acf000337",
+                    "character": "Lyla Michaels",
+                    "order": 291,
+                    "gender": 1,
+                    "profile_path": "/ztCiiLb6PwlgMis2cmBJeacl0yM.jpg"
+                }
+            ]
+        },
+        {
+            "air_date": "2013-04-24",
+            "episode_number": 20,
+            "id": 64130,
+            "name": "Home Invasion",
+            "overview": "Deadshot returns to Starling City after taking down a U.S. Ambassador and six others overseas. By keeping tabs on A.R.G.U.S.'s manhunt for the assassin, Oliver, Diggle, and Felicity learn that a sting operation is underway to capture Deadshot - alive. Diggle is determined to see his brother's killer dead, with or without Ollie's help. Meanwhile, Laurel takes drastic steps to protect a young witness, exacerbating friction between Tommy and Oliver. Later, Roy Harperunconventionally pursues all leads to find his new hero, but runs afoul of Detective Lance. Back on the island, Oliver recalls how Shado helped him incrementally gain confidence with a bow and hit the target for the first time.",
+            "production_code": "2J7320",
+            "season_number": 1,
+            "show_id": 1412,
+            "still_path": "/1yeRL8ntftdM2Ly8v8B0qx9GP5S.jpg",
+            "vote_average": 7.154,
+            "vote_count": 13,
+            "crew": [
+                {
+                    "id": 155584,
+                    "credit_id": "5256ce3719c2956ff6082779",
+                    "name": "Kenneth Fink",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 2,
+                    "profile_path": "/lLoVoDSV4ypFJnSJkSEoWJkOpzt.jpg"
+                },
+                {
+                    "id": 1489112,
+                    "credit_id": "55ae7a489251411e1400adf4",
+                    "name": "Beth Schwartz",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 1,
+                    "profile_path": null
+                },
+                {
+                    "id": 208523,
+                    "credit_id": "588e527ec3a368749400dd45",
+                    "name": "Jake Coburn",
+                    "department": "Production",
+                    "job": "Supervising Producer",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 1379807,
+                    "credit_id": "588e52bec3a368749700e42f",
+                    "name": "Drew Z. Greenberg",
+                    "department": "Production",
+                    "job": "Co-Executive Producer",
+                    "gender": 2,
+                    "profile_path": "/2ePdjjMbVJV8xgu3rvKJLsOnL6H.jpg"
+                },
+                {
+                    "id": 1371444,
+                    "credit_id": "5431b5b00e0a264643003ddf",
+                    "name": "Ben Sokolowski",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 2,
+                    "profile_path": null
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 1224027,
+                    "name": "Emily Bett Rickards",
+                    "credit_id": "5256ce3b19c2956ff6082a5d",
+                    "character": "Felicity Smoak",
+                    "order": 1,
+                    "gender": 1,
+                    "profile_path": "/zkx3Xwy7w4hFpBNnvfFsKOBQP9V.jpg"
+                },
+                {
+                    "id": 1224028,
+                    "name": "Celina Jade",
+                    "credit_id": "5256ce3d19c2956ff6082b8f",
+                    "character": "Shado",
+                    "order": 15,
+                    "gender": 1,
+                    "profile_path": "/7ZY6xC4AupLjnupwkFYZMjBwQwJ.jpg"
+                },
+                {
+                    "id": 1467737,
+                    "name": "Michael Rowe",
+                    "credit_id": "5557851a9251411e62006187",
+                    "character": "Floyd Lawton / Deadshot",
+                    "order": 20,
+                    "gender": 0,
+                    "profile_path": "/tHxNr3mH5l4qmkF6MtnkqlaHzyL.jpg"
+                },
+                {
+                    "id": 41782,
+                    "name": "Manu Bennett",
+                    "credit_id": "563d447bc3a3681b5402a6b1",
+                    "character": "Slade Wilson",
+                    "order": 71,
+                    "gender": 2,
+                    "profile_path": "/r9P5l3CgpqpEr4ATbv8AMFqOiF.jpg"
+                },
+                {
+                    "id": 57748,
+                    "name": "Byron Mann",
+                    "credit_id": "56491009c3a3682605008941",
+                    "character": "Yao Fei",
+                    "order": 77,
+                    "gender": 2,
+                    "profile_path": "/aaF0PYLbw8nH54wm9vO5tJ8oyfH.jpg"
+                },
+                {
+                    "id": 211800,
+                    "name": "Colton Haynes",
+                    "credit_id": "56995db0925141193e0001dd",
+                    "character": "Roy Harper",
+                    "order": 80,
+                    "gender": 2,
+                    "profile_path": "/gBWDLczwlKDrWcgI8MY126GehEt.jpg"
+                },
+                {
+                    "id": 153939,
+                    "name": "J. August Richards",
+                    "credit_id": "56cc65289251412464002686",
+                    "character": "Mr. Blank",
+                    "order": 119,
+                    "gender": 2,
+                    "profile_path": "/fqB3Juir05q29tChXOhjGjA5Oa2.jpg"
+                },
+                {
+                    "id": 154917,
+                    "name": "Al Sapienza",
+                    "credit_id": "56cc65549251412457002742",
+                    "character": "Edward Rasmus",
+                    "order": 120,
+                    "gender": 2,
+                    "profile_path": "/rWTWUwOcNj5SsLb9FS3dbseosWv.jpg"
+                },
+                {
+                    "id": 106951,
+                    "name": "Paul Lazenby",
+                    "credit_id": "57409bfdc3a36807490024b2",
+                    "character": "Sr. Robbins",
+                    "order": 131,
+                    "gender": 2,
+                    "profile_path": "/sLLnxaXC37hKRedJXMzlwHnQR0e.jpg"
+                },
+                {
+                    "id": 21417,
+                    "name": "Audrey Marie Anderson",
+                    "credit_id": "55650c32c3a3687acf000337",
+                    "character": "Lyla Michaels",
+                    "order": 291,
+                    "gender": 1,
+                    "profile_path": "/ztCiiLb6PwlgMis2cmBJeacl0yM.jpg"
+                }
+            ]
+        },
+        {
+            "air_date": "2013-05-01",
+            "episode_number": 21,
+            "id": 64131,
+            "name": "The Undertaking",
+            "overview": "Finding it difficult to mend fences with Tommy and Diggle, Oliver instead focuses on crossing another name off the list. While digging through a crooked accountant's laptop, Felicity discovers a transaction that could help Oliver find Walter. To reconfirm the lead, Oliver gambles that Felicity can be counted on in the field for the first time. In a flashback, Malcolm reveals to Robert Queen and Frank Chen painful details surrounding his wife's murder, and how that shaped his plans for the Glades. Meanwhile, Tommy stuns Laurel with the truth.",
+            "production_code": "2J7321",
+            "season_number": 1,
+            "show_id": 1412,
+            "still_path": "/2TgdiYuTXfp0b9lkIK0XWNvkL.jpg",
+            "vote_average": 7.583,
+            "vote_count": 12,
+            "crew": [
+                {
+                    "id": 1489089,
+                    "credit_id": "55ae6cecc3a3682ff400c168",
+                    "name": "Lana Cho",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 77300,
+                    "credit_id": "5256ce3419c2956ff60826cf",
+                    "name": "Michael Schultz",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 2,
+                    "profile_path": "/vOeqakUoDdAKECGmiSwx8yq2AV0.jpg"
+                },
+                {
+                    "id": 208523,
+                    "credit_id": "543164c60e0a265872001e5b",
+                    "name": "Jake Coburn",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 208523,
+                    "credit_id": "588e527ec3a368749400dd45",
+                    "name": "Jake Coburn",
+                    "department": "Production",
+                    "job": "Supervising Producer",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 1379807,
+                    "credit_id": "588e52bec3a368749700e42f",
+                    "name": "Drew Z. Greenberg",
+                    "department": "Production",
+                    "job": "Co-Executive Producer",
+                    "gender": 0,
+                    "profile_path": "/2ePdjjMbVJV8xgu3rvKJLsOnL6H.jpg"
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 1224027,
+                    "name": "Emily Bett Rickards",
+                    "credit_id": "5256ce3b19c2956ff6082a5d",
+                    "character": "Felicity Smoak",
+                    "order": 1,
+                    "gender": 1,
+                    "profile_path": "/zkx3Xwy7w4hFpBNnvfFsKOBQP9V.jpg"
+                },
+                {
+                    "id": 5414,
+                    "name": "Colin Salmon",
+                    "credit_id": "5256ce3819c2956ff6082a01",
+                    "character": "Walter Steele",
+                    "order": 5,
+                    "gender": 2,
+                    "profile_path": "/2RHy23vEDs0JRI4uy6IXNxKOrzL.jpg"
+                },
+                {
+                    "id": 101015,
+                    "name": "Chin Han",
+                    "credit_id": "54bf66d9c3a3686c6100e4b1",
+                    "character": "Frank Chen",
+                    "order": 11,
+                    "gender": 2,
+                    "profile_path": "/xvMCVDvrQ2WlAB2LmkG6HAzlYag.jpg"
+                },
+                {
+                    "id": 2977,
+                    "name": "Jamey Sheridan",
+                    "credit_id": "555e2e5c9251417e4f000594",
+                    "character": "Robert Queen",
+                    "order": 26,
+                    "gender": 2,
+                    "profile_path": "/jpyh4Wd6AZ1oBCsbIxB72otXtcy.jpg"
+                },
+                {
+                    "id": 172851,
+                    "name": "Ray Galletti",
+                    "credit_id": "56cc65eec3a36865db00281d",
+                    "character": "Dominic Alonzo",
+                    "order": 121,
+                    "gender": 2,
+                    "profile_path": "/28qSGnytoOjSJLOOOUTG7UH1qMF.jpg"
+                },
+                {
+                    "id": 182287,
+                    "name": "John Barrowman",
+                    "credit_id": "563d43e39251413b1300a44b",
+                    "character": "Malcolm Merlyn",
+                    "order": 286,
+                    "gender": 2,
+                    "profile_path": "/bqORM8i3H0EFc8UqYMUpFZNA8u6.jpg"
+                }
+            ]
+        },
+        {
+            "air_date": "2013-05-08",
+            "episode_number": 22,
+            "id": 64132,
+            "name": "Darkness on the Edge of Town",
+            "overview": "With the Undertaking days away, Malcolm dons his black hood to conclude business with seismologist Dr. Brion Markov and his team. Oliver and Moira entertain a number of surprise - and mostly unwelcome - visitors. Hooded confrontations at home and the Meryln Global Group reveal dark secrets. Meanwhile, Roy and Thea are still looking out for a hero. Laurel makes a decision after Tommy's revelation. In a flashback to the island, Oliver, Slade and Shado struggle to prevent Fyers from shooting a Ferris Air jet out of the sky. Paul Blackthorne and David Ramsey also star.",
+            "production_code": "2J7322",
+            "season_number": 1,
+            "show_id": 1412,
+            "still_path": "/oLgqlOxMcILXGvHf7WU1h5KHZT7.jpg",
+            "vote_average": 8,
+            "vote_count": 12,
+            "crew": [
+                {
+                    "id": 1379807,
+                    "credit_id": "55b02333c3a3682ff900c090",
+                    "name": "Drew Z. Greenberg",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 0,
+                    "profile_path": "/2ePdjjMbVJV8xgu3rvKJLsOnL6H.jpg"
+                },
+                {
+                    "id": 1215006,
+                    "credit_id": "5256ce3519c2956ff60826f8",
+                    "name": "John Behring",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 2,
+                    "profile_path": "/5FthcEQTiVLn50daWXLYB07HyqB.jpg"
+                },
+                {
+                    "id": 1371443,
+                    "credit_id": "5431b5650e0a2656e2002720",
+                    "name": "Wendy Mericle",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 1,
+                    "profile_path": null
+                },
+                {
+                    "id": 208523,
+                    "credit_id": "588e527ec3a368749400dd45",
+                    "name": "Jake Coburn",
+                    "department": "Production",
+                    "job": "Supervising Producer",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 1379807,
+                    "credit_id": "588e52bec3a368749700e42f",
+                    "name": "Drew Z. Greenberg",
+                    "department": "Production",
+                    "job": "Co-Executive Producer",
+                    "gender": 0,
+                    "profile_path": "/2ePdjjMbVJV8xgu3rvKJLsOnL6H.jpg"
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 1224027,
+                    "name": "Emily Bett Rickards",
+                    "credit_id": "5256ce3b19c2956ff6082a5d",
+                    "character": "Felicity Smoak",
+                    "order": 1,
+                    "gender": 1,
+                    "profile_path": "/zkx3Xwy7w4hFpBNnvfFsKOBQP9V.jpg"
+                },
+                {
+                    "id": 5414,
+                    "name": "Colin Salmon",
+                    "credit_id": "5256ce3819c2956ff6082a01",
+                    "character": "Walter Steele",
+                    "order": 5,
+                    "gender": 2,
+                    "profile_path": "/2RHy23vEDs0JRI4uy6IXNxKOrzL.jpg"
+                },
+                {
+                    "id": 1224028,
+                    "name": "Celina Jade",
+                    "credit_id": "5256ce3d19c2956ff6082b8f",
+                    "character": "Shado",
+                    "order": 15,
+                    "gender": 1,
+                    "profile_path": "/7ZY6xC4AupLjnupwkFYZMjBwQwJ.jpg"
+                },
+                {
+                    "id": 1264234,
+                    "name": "Sebastian Dunn",
+                    "credit_id": "5571e1a39251416cd5001d65",
+                    "character": "Edward Fyers",
+                    "order": 34,
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 25877,
+                    "name": "Roger Cross",
+                    "credit_id": "55ae6ca5c3a368300200a9c1",
+                    "character": "Detective Lucas Hilton",
+                    "order": 38,
+                    "gender": 2,
+                    "profile_path": "/cyd6iZZArmXmuAyxxJkodfMiMDs.jpg"
+                },
+                {
+                    "id": 41782,
+                    "name": "Manu Bennett",
+                    "credit_id": "563d447bc3a3681b5402a6b1",
+                    "character": "Slade Wilson",
+                    "order": 71,
+                    "gender": 2,
+                    "profile_path": "/r9P5l3CgpqpEr4ATbv8AMFqOiF.jpg"
+                },
+                {
+                    "id": 57748,
+                    "name": "Byron Mann",
+                    "credit_id": "56491009c3a3682605008941",
+                    "character": "Yao Fei",
+                    "order": 77,
+                    "gender": 2,
+                    "profile_path": "/aaF0PYLbw8nH54wm9vO5tJ8oyfH.jpg"
+                },
+                {
+                    "id": 211800,
+                    "name": "Colton Haynes",
+                    "credit_id": "56995db0925141193e0001dd",
+                    "character": "Roy Harper",
+                    "order": 80,
+                    "gender": 2,
+                    "profile_path": "/gBWDLczwlKDrWcgI8MY126GehEt.jpg"
+                },
+                {
+                    "id": 182287,
+                    "name": "John Barrowman",
+                    "credit_id": "563d43e39251413b1300a44b",
+                    "character": "Malcolm Merlyn",
+                    "order": 286,
+                    "gender": 2,
+                    "profile_path": "/bqORM8i3H0EFc8UqYMUpFZNA8u6.jpg"
+                },
+                {
+                    "id": 939589,
+                    "name": "Jarod Joseph",
+                    "credit_id": "56cc6214925141245200272c",
+                    "character": "Alan Durand",
+                    "order": 288,
+                    "gender": 2,
+                    "profile_path": "/6QopNtsLPP63IaQgqfNweJEV67t.jpg"
+                }
+            ]
+        },
+        {
+            "air_date": "2013-05-15",
+            "episode_number": 23,
+            "id": 64133,
+            "name": "Sacrifice",
+            "overview": "Oliver and Diggle race to stop the Dark Archer from unleashing his vengeance on The Glades. However, they run into a roadblock after Detective Lance picks up Felicity for questioning. Tommy and Oliver's already tumultuous relationship takes a turn for the worse after Oliver makes a confession about Laurel. After hearing of the danger in The Glades, Thea races to find Roy, inadvertently putting herself directly in the line of fire for Malcolm's devious plan. On the island, Oliver, Slade and Shado are locked in a life-or-death struggle against Fyers as his missiles lock on a full Ferris Air jetliner.",
+            "production_code": "2J7323",
+            "season_number": 1,
+            "show_id": 1412,
+            "still_path": "/bgXrB2ewp9HpjYMQPWHW7qp5rfh.jpg",
+            "vote_average": 8.5,
+            "vote_count": 12,
+            "crew": [
+                {
+                    "id": 9556,
+                    "credit_id": "5256ce3419c2956ff608264b",
+                    "name": "David Barrett",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 2,
+                    "profile_path": "/ghWOXqNnJIYKH1GDkym7YyUx882.jpg"
+                },
+                {
+                    "id": 1216615,
+                    "credit_id": "562e67f8c3a3681b5200b0b0",
+                    "name": "Andrew Kreisberg",
+                    "department": "Writing",
+                    "job": "Teleplay",
+                    "gender": 2,
+                    "profile_path": "/giFmwdBAw6uwC8yeHPaW6dq6YT8.jpg"
+                },
+                {
+                    "id": 171830,
+                    "credit_id": "55d34d36c3a3680b0b0000db",
+                    "name": "Marc Guggenheim",
+                    "department": "Writing",
+                    "job": "Teleplay",
+                    "gender": 2,
+                    "profile_path": "/1nCTlHZ37IjpUlJbQv68iizYdX5.jpg"
+                },
+                {
+                    "id": 88967,
+                    "credit_id": "55d34d63c3a3680aff00012a",
+                    "name": "Greg Berlanti",
+                    "department": "Writing",
+                    "job": "Story",
+                    "gender": 2,
+                    "profile_path": "/AbocIYSo4KXx7nT6lz2dj3qMD8H.jpg"
+                },
+                {
+                    "id": 208523,
+                    "credit_id": "588e527ec3a368749400dd45",
+                    "name": "Jake Coburn",
+                    "department": "Production",
+                    "job": "Supervising Producer",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 1379807,
+                    "credit_id": "588e52bec3a368749700e42f",
+                    "name": "Drew Z. Greenberg",
+                    "department": "Production",
+                    "job": "Co-Executive Producer",
+                    "gender": 0,
+                    "profile_path": "/2ePdjjMbVJV8xgu3rvKJLsOnL6H.jpg"
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 1224027,
+                    "name": "Emily Bett Rickards",
+                    "credit_id": "5256ce3b19c2956ff6082a5d",
+                    "character": "Felicity Smoak",
+                    "order": 1,
+                    "gender": 1,
+                    "profile_path": "/zkx3Xwy7w4hFpBNnvfFsKOBQP9V.jpg"
+                },
+                {
+                    "id": 1224028,
+                    "name": "Celina Jade",
+                    "credit_id": "5256ce3d19c2956ff6082b8f",
+                    "character": "Shado",
+                    "order": 15,
+                    "gender": 1,
+                    "profile_path": "/7ZY6xC4AupLjnupwkFYZMjBwQwJ.jpg"
+                },
+                {
+                    "id": 1264234,
+                    "name": "Sebastian Dunn",
+                    "credit_id": "5571e1a39251416cd5001d65",
+                    "character": "Edward Fyers",
+                    "order": 34,
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 209196,
+                    "name": "Annie Ilonzeh",
+                    "credit_id": "55ae6b38c3a368246c005295",
+                    "character": "Joanna de la Vega",
+                    "order": 36,
+                    "gender": 1,
+                    "profile_path": "/pClp0YqYYVjeKOzrjzS5S1Mi7GH.jpg"
+                },
+                {
+                    "id": 25877,
+                    "name": "Roger Cross",
+                    "credit_id": "55ae6ca5c3a368300200a9c1",
+                    "character": "Detective Lucas Hilton",
+                    "order": 38,
+                    "gender": 2,
+                    "profile_path": "/cyd6iZZArmXmuAyxxJkodfMiMDs.jpg"
+                },
+                {
+                    "id": 41782,
+                    "name": "Manu Bennett",
+                    "credit_id": "563d447bc3a3681b5402a6b1",
+                    "character": "Slade Wilson",
+                    "order": 71,
+                    "gender": 2,
+                    "profile_path": "/r9P5l3CgpqpEr4ATbv8AMFqOiF.jpg"
+                },
+                {
+                    "id": 211800,
+                    "name": "Colton Haynes",
+                    "credit_id": "56995db0925141193e0001dd",
+                    "character": "Roy Harper",
+                    "order": 80,
+                    "gender": 2,
+                    "profile_path": "/gBWDLczwlKDrWcgI8MY126GehEt.jpg"
+                },
+                {
+                    "id": 33348,
+                    "name": "Adrian Holmes",
+                    "credit_id": "56f38e67c3a3682fd2001f1f",
+                    "character": "Frank Pike",
+                    "order": 281,
+                    "gender": 2,
+                    "profile_path": "/8gfuxasIm5nPx0FccAJQ6JaYxcy.jpg"
+                },
+                {
+                    "id": 182287,
+                    "name": "John Barrowman",
+                    "credit_id": "563d43e39251413b1300a44b",
+                    "character": "Malcolm Merlyn",
+                    "order": 286,
+                    "gender": 2,
+                    "profile_path": "/bqORM8i3H0EFc8UqYMUpFZNA8u6.jpg"
+                },
+                {
+                    "id": 939589,
+                    "name": "Jarod Joseph",
+                    "credit_id": "56cc6214925141245200272c",
+                    "character": "Alan Durand",
+                    "order": 288,
+                    "gender": 2,
+                    "profile_path": "/6QopNtsLPP63IaQgqfNweJEV67t.jpg"
+                }
+            ]
+        }
+    ],
+    "name": "Season 1",
+    "overview": "Oliver Queen returns to Starling city after being deserted on a hellish island for five years. He decides to become a mask wearing vigilante to fulfil his father's wishes and rid the city of crime. In his journey to do so, he is forced to make tough decisions even as he makes new friends and even more enemies which continue question his lethal ways of controlling crime.",
+    "id": 3697,
+    "poster_path": "/AlzF0mWXN1ORPUVYAHHRan2j7ji.jpg",
+    "season_number": 1
+}

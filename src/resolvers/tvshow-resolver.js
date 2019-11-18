@@ -1,19 +1,13 @@
+const { buildRepository } = require('./resolver-helpers');
 const TvShowRepository = require('../repository/tvshow-repository');
 
 function getTypes() {
 	return Object.entries(TvShowRepository.types).map(([key, value]) => ({ key, value }));
 }
 
-function getRepository({ requester, appConfig }) {
-	return new TvShowRepository({
-		apiKey: appConfig.tmbdApiKey,
-		requester
-	});
-}
-
 function getByType(root, params, context) {
 	const { type, language, page } = params;
-	const repository = getRepository(context);
+	const repository = buildRepository(TvShowRepository, context);
 	
 	// TODO Verify received type is valid. Throw an error if it's not
 	if (Object.keys(TvShowRepository.types).includes(type)) {
@@ -25,20 +19,20 @@ function getByType(root, params, context) {
 
 function searchTvShows(_, params, context) {
 	const { searchTerm, language, page } = params;
-	const repository = getRepository(context);
+	const repository = buildRepository(TvShowRepository, context);
 	
 	return repository.searchTvShows({ searchTerm, language, page });
 }
 
 function getTvShowDetails(_, params, context) {
 	const { tvShowId, language } = params;
-	const repository = getRepository(context);
+	const repository = buildRepository(TvShowRepository, context);
 	return repository.getDetails({ tvShowId, language });
 }
 
 function getSimilarsTvShows(_, params, context) {
 	const { tvShowId, language } = params;
-	const repository = getRepository(context);
+	const repository = buildRepository(TvShowRepository, context);
 	return repository.getSimilars({ tvShowId, language });
 }
 

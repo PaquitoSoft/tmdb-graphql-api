@@ -7,11 +7,11 @@ const resolverModules = typeFiles
 
 const buildResolvers = () => (
 	resolverModules.reduce((resolvers, resolverModule) => {
-		if (!resolverModule.typeName) return resolvers;
+		if (!resolverModule.typeName && !resolverModule.queries) return resolvers;
 
 		resolvers = {
 			...resolvers,
-			[resolverModule.typeName]: resolverModule.typeResolvers,
+			...(!!resolverModule.typeName ? { [resolverModule.typeName]: resolverModule.typeResolvers } : {}),
 			Query: {
 				...resolvers.Query,
 				...(resolverModule.queries || {})

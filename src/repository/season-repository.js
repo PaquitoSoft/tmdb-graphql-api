@@ -1,3 +1,5 @@
+const Season = require('../models/season');
+
 class SeasonRepository {
 
 	constructor({ apiKey, requester }) {
@@ -5,14 +7,16 @@ class SeasonRepository {
 		this.requester = requester;
 	}
 
-	getDetails({ tvShowId, seasonId, language }) {
-		return this.requester.request({
+	async getDetails({ tvShowId, seasonId, language }) {
+		const result = await this.requester.request({
 			path: `/3/tv/${tvShowId}/season/${seasonId}`,
 			query: {
 				api_key: this.apiKey,
 				language
 			}
 		});
+
+		return new Season(result);
 	}
 
 }
