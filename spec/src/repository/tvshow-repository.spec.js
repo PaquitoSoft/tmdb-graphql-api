@@ -1,14 +1,7 @@
 const sinon = require('sinon');
 const expect = require('expect.js');
-const { loadFixture } = require('../../spec-utils');
+const { loadFixture, buildRepository } = require('../../spec-utils');
 const TvShowRepository = require('../../../src/repository/tvshow-repository');
-
-function getRepository(requestFake) {
-	return new TvShowRepository({ 
-		apiKey: '123456', 
-		requester: { request: requestFake }
-	});
-}
 
 describe('TvShow Repository', () => {
 	
@@ -20,7 +13,7 @@ describe('TvShow Repository', () => {
 	}) {
 		const fixture = loadFixture(fixtureName);
 		const requestFake = sinon.fake.returns(fixture);
-		const result = await getRepository(requestFake)[operationName](operationParams);
+		const result = await buildRepository(TvShowRepository, requestFake)[operationName](operationParams);
 
 		operationExpectation({
 			requestCallArgs: requestFake.lastArg, 

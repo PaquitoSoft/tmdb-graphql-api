@@ -14,7 +14,15 @@ function loadFixture(name) {
 	return require(join(FIXTURES_FOLDER, name));
 }
 
+function buildRepository(Repository, requestFake) {
+	return new Repository({ 
+		apiKey: '123456', 
+		requester: { request: requestFake }
+	});
+}
+
 module.exports = { 
 	createFixture,
-	loadFixture
+	loadFixture,
+	buildRepository
 };

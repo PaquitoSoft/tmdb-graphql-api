@@ -72,7 +72,7 @@ const schema = gql`
 		getByType(type: String!, laguage: String, page: Int): [TvShow!]
 		getTvShowDetails(tvShowId: Int, language: String): TvShow
 		getSimilarsTvShows(tvShowId: Int, langauge: String): [TvShow]
-		getSeasonDetails(tvShowId: Int, seasonId: Int, langauge: String): Season
+		getSeasonDetails(tvShowId: Int, seasonNumber: Int, langauge: String): Season
 	}
 `;
 
