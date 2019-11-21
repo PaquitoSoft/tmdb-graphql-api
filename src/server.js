@@ -11,8 +11,10 @@ const appConfig = {
 };
 
 const server = new ApolloServer({
+	// debug: true,
 	typeDefs: schema,
 	resolvers: resolvers.buildResolvers(),
+	cors: true,
 	context: () => ({
 		appConfig,
 		requester: new Requester({ host: appConfig.tmdbHost })
