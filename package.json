@@ -4,7 +4,8 @@
   "description": "The Movie DB GraphQL server",
   "main": "index.js",
   "scripts": {
-    "test": "mocha \"./spec/**/*.spec.js\"",
+	"test": "mocha \"./spec/**/*.spec.js\"",
+	"coverage": "nyc npm test",
     "debug": "nodemon ./src/server.js -- --inspect",
     "start": "node ./src/server.js"
   },
