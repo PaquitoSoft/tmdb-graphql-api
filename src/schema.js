@@ -28,6 +28,7 @@ const schema = gql`
 		seasonNumber: Int
 		posterPath: String
 		airDate: String
+		episodesCount: Int
 		episodes: [Episode]
 	}
 
