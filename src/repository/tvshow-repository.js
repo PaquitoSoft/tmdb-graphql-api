@@ -13,15 +13,31 @@ class TvShowRepository {
 	}
 
 	async getDetails({ tvShowId, language }) {
-		const result = await this.requester.request({
-			path: `/3/tv/${tvShowId}`,
-			query: {
-				api_key: this.apiKey,
-				language
-			}
-		});
+		const tvShowDetailRequest = () => (
+			this.requester.request({
+				path: `/3/tv/${tvShowId}`,
+				query: {
+					api_key: this.apiKey,
+					language
+				}
+			})
+		);
 
-		return new TvShow(result);
+		const tvShowCastRequest = () => (
+			this.requester.request({
+				path: `/3/tv/${tvShowId}/credits`,
+				query: {
+					api_key: this.apiKey,
+					language
+				}
+			})
+		);
+
+		const [tvShowRaw, { cast: castRaw } ] = await Promise.all(
+			[tvShowDetailRequest(), tvShowCastRequest()]
+		);
+
+		return new TvShow(tvShowRaw, castRaw);
 	}
 
 	async searchTvShows({ searchTerm, language, page = 1 }) {

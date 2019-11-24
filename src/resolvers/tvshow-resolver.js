@@ -37,13 +37,6 @@ function getSimilarsTvShows(_, params, context) {
 }
 
 const tvShowResolvers = {
-	typeName: 'TvShow',
-	typeResolvers: {
-		genres: () => [],
-		networks: () => [],
-		seasons: (root, args, context) => [],
-		cast: () => []	
-	},
 	queries: {
 		getTypes,
 		getByType,

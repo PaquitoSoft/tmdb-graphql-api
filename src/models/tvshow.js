@@ -1,29 +1,29 @@
 const Genre = require('./genre');
 const Network = require('./network');
 const Season = require('./season');
-// const Character = require('./character');
+const Character = require('./character');
 
 class TvShow {
-	constructor(raw) {
-		this.id = raw.id;
-		this.name = raw.name;
-		this.overview = raw.overview;
-		this.originalName = raw.original_name;
-		this.status = raw.status;
-		this.backdropImagePath = raw.backdrop_path;
-		this.posterPath = raw.backdrop_path;
-		this.firstAirDate = raw.first_air_date;
-		this.runtime = raw.episode_run_time;
-		this.lastAirDate = raw.last_air_date;
-		// this.genres = raw.genres.map(g => new Genre(g));
-		this.networks = (raw.networks || []).map(n => new Network(n));
-		this.seasonsCount = raw.number_of_seasons;
-		this.episodesCount = raw.number_of_episodes;
-		this.popularity = raw.popularity;
-		this.votesCount = raw.vote_count;
-		this.votesAverage = raw.vote_average;
-		this.seasons = (raw.seasons || []).map(s => new Season(s));
-		// cast: [Character]
+	constructor(tvShowRaw, castRaw = []) {
+		this.id = tvShowRaw.id;
+		this.name = tvShowRaw.name;
+		this.overview = tvShowRaw.overview;
+		this.originalName = tvShowRaw.original_name;
+		this.status = tvShowRaw.status;
+		this.backdropImagePath = tvShowRaw.backdrop_path;
+		this.posterPath = tvShowRaw.backdrop_path;
+		this.firstAirDate = tvShowRaw.first_air_date;
+		this.runtime = tvShowRaw.episode_run_time;
+		this.lastAirDate = tvShowRaw.last_air_date;
+		// this.genres = tvShowRaw.genres.map(g => new Genre(g));
+		this.networks = (tvShowRaw.networks || []).map(n => new Network(n));
+		this.seasonsCount = tvShowRaw.number_of_seasons;
+		this.episodesCount = tvShowRaw.number_of_episodes;
+		this.popularity = tvShowRaw.popularity;
+		this.votesCount = tvShowRaw.vote_count;
+		this.votesAverage = tvShowRaw.vote_average;
+		this.seasons = (tvShowRaw.seasons || []).map(s => new Season(s));
+		this.cast = castRaw.map(c => new Character(c));
 	}
 }
 
