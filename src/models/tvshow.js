@@ -11,7 +11,7 @@ class TvShow {
 		this.originalName = tvShowRaw.original_name;
 		this.status = tvShowRaw.status;
 		this.backdropImagePath = tvShowRaw.backdrop_path;
-		this.posterPath = tvShowRaw.backdrop_path;
+		this.posterPath = tvShowRaw.poster_path;
 		this.firstAirDate = tvShowRaw.first_air_date;
 		this.runtime = tvShowRaw.episode_run_time;
 		this.lastAirDate = tvShowRaw.last_air_date;
