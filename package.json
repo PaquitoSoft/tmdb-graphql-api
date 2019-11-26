@@ -4,10 +4,12 @@
   "description": "The Movie DB GraphQL server",
   "main": "index.js",
   "scripts": {
-	"test": "mocha \"./spec/**/*.spec.js\"",
-	"coverage": "nyc npm test",
+	"lint": "eslint src spec",
+    "test": "mocha \"./spec/**/*.spec.js\"",
+    "coverage": "nyc npm test",
     "debug": "nodemon ./src/server.js -- --inspect",
-    "start": "node ./src/server.js"
+	"start": "node ./src/server.js",
+	"ci:validate": "npm run lint & npm run test"
   },
   "author": "Paquitosoft",
   "license": "ISC",
@@ -23,6 +25,8 @@
   },
   "devDependencies": {
     "debug": "^4.1.1",
+    "eslint": "^6.7.1",
+    "eslint-plugin-mocha": "^6.2.2",
     "expect.js": "^0.3.1",
     "mocha": "^6.2.2",
     "nodemon": "^1.19.4",

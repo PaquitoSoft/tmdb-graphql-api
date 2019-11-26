@@ -1,4 +1,4 @@
-const Genre = require('./genre');
+// const Genre = require('./genre');
 const Network = require('./network');
 const Season = require('./season');
 const Character = require('./character');

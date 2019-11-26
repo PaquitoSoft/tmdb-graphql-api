@@ -15,7 +15,7 @@ describe('Season Repository', () => {
 			const requestFake = sinon.fake.returns(fixture);
 			const repository = buildRepository(SeasonRepository, requestFake);
 
-			const season = await repository.getDetails({ tvShowId, seasonNumber, language});
+			const season = await repository.getDetails({ tvShowId, seasonNumber, language });
 
 			expect(season.seasonNumber).to.equal(seasonNumber);
 			expect(season.episodes).to.not.be.empty();

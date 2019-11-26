@@ -1,3 +1,4 @@
+/* eslint-disable max-lines-per-function */
 const sinon = require('sinon');
 const expect = require('expect.js');
 const { loadFixture, buildRepository } = require('../../spec-utils');
@@ -22,8 +23,8 @@ describe('TvShow Repository', () => {
 		});
 
 		if (Array.isArray(result)) {
-			const firstFixture = fixture.results[0];
-			const firstResult = result[0];
+			const [firstFixture] = fixture.results;
+			const [firstResult] = result;
 			expect(firstResult.name).to.equal(firstFixture.name);
 			expect(firstResult.votesCount).to.equal(firstFixture.vote_count);
 		}

@@ -11,7 +11,7 @@ const buildResolvers = () => (
 
 		resolvers = {
 			...resolvers,
-			...(!!resolverModule.typeName ? { [resolverModule.typeName]: resolverModule.typeResolvers } : {}),
+			...(resolverModule.typeName ? { [resolverModule.typeName]: resolverModule.typeResolvers } : {}),
 			Query: {
 				...resolvers.Query,
 				...(resolverModule.queries || {})
