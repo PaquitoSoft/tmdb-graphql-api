@@ -1,3 +1,4 @@
+const Boom = require('@hapi/boom');
 const { buildRepository } = require('./resolver-helpers');
 const TvShowRepository = require('../repository/tvshow-repository');
 
@@ -9,9 +10,9 @@ function getByType(root, params, context) {
 	const { type, language, page } = params;
 	const repository = buildRepository(TvShowRepository, context);
 	
-	// TODO Verify received type is valid. Throw an error if it's not
-	if (Object.keys(TvShowRepository.types).includes(type)) {
-		type = TvShowRepository.types.LATEST;
+	if (!Object.values(TvShowRepository.types).includes(type)) {
+		throw Boom.badRequest('Invalid TvShow type. Acceptable values are: ' +
+			Object.values(TvShowRepository.types));
 	}
 
 	return repository.getByType({ type, language, page });

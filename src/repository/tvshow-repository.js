@@ -2,11 +2,6 @@ const TvShow = require('../models/tvshow');
 
 class TvShowRepository {
 
-	static types = {
-		POPULAR: 'popular',
-		TOP_RATED: 'top_rated'
-	}
-	
 	constructor({ apiKey, requester }) {
 		this.apiKey = apiKey;
 		this.requester = requester;
@@ -80,5 +75,12 @@ class TvShowRepository {
 		return result.results.map(t => new TvShow(t));
 	}
 }
+
+// I don't use static class fields because ESLint complains
+// and I don't to waste my time arguing with him
+TvShowRepository.types = {
+	POPULAR: 'popular',
+	TOP_RATED: 'top_rated'
+};
 
 module.exports = TvShowRepository;
