@@ -68,12 +68,12 @@ const schema = gql`
 	}
 
 	type Query {
-		searchTvShows(searchTerm: String, language: String, page: Int): [TvShow]
+		searchTvShows(searchTerm: String!, language: String, page: Int): [TvShow]
 		getTypes: [TvShowType]
 		getByType(type: String!, laguage: String, page: Int): [TvShow!]
-		getTvShowDetails(tvShowId: Int, language: String): TvShow
-		getSimilarsTvShows(tvShowId: Int, langauge: String): [TvShow]
-		getSeasonDetails(tvShowId: Int, seasonNumber: Int, langauge: String): Season
+		getTvShowDetails(tvShowId: Int!, language: String): TvShow
+		getSimilarsTvShows(tvShowId: Int!, langauge: String): [TvShow]
+		getSeasonDetails(tvShowId: Int!, seasonNumber: Int!, langauge: String): Season
 	}
 `;
 
