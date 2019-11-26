@@ -1,15 +1,15 @@
 {
   "name": "tmdb-graphql",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "The Movie DB GraphQL server",
   "main": "index.js",
   "scripts": {
-	"lint": "eslint src spec",
+    "lint": "eslint src spec",
     "test": "mocha \"./spec/**/*.spec.js\"",
     "coverage": "nyc npm test",
     "debug": "nodemon ./src/server.js -- --inspect",
-	"start": "node ./src/server.js",
-	"ci:validate": "npm run lint & npm run test"
+    "start": "node ./src/server.js",
+    "ci:validate": "npm run lint & npm run test"
   },
   "author": "Paquitosoft",
   "license": "ISC",
@@ -19,12 +19,12 @@
   "dependencies": {
     "@hapi/boom": "^8.0.1",
     "apollo-server": "^2.9.9",
+    "debug": "^4.1.1",
     "dotenv": "^8.2.0",
     "graphql": "^14.5.8",
     "request": "^2.88.0"
   },
   "devDependencies": {
-    "debug": "^4.1.1",
     "eslint": "^6.7.1",
     "eslint-plugin-mocha": "^6.2.2",
     "expect.js": "^0.3.1",
