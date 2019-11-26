@@ -16,6 +16,7 @@ describe('TvShow Repository', () => {
 		const result = await buildRepository(TvShowRepository, requestFake)[operationName](operationParams);
 
 		operationExpectation({
+			requestFake,
 			requestCallArgs: requestFake.lastArg, 
 			result
 		});
@@ -38,8 +39,9 @@ describe('TvShow Repository', () => {
 					language: 'en'
 				},
 				fixtureName: 'tvshow-detail.json',
-				operationExpectation: ({ requestCallArgs, result }) => {
-					expect(requestCallArgs).to.have.property('path', `/3/tv/${tvShowId}`);
+				operationExpectation: ({ result, requestFake }) => {
+					expect(requestFake.getCall(0).lastArg).to.have.property('path', `/3/tv/${tvShowId}`);
+					expect(requestFake.getCall(1).lastArg).to.have.property('path', `/3/tv/${tvShowId}/credits`);
 					expect(result).to.have.property('name', 'Lost');
 				}
 			});
