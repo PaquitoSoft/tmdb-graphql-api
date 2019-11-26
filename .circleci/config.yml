@@ -34,4 +34,4 @@ jobs:
           key: v1-dependencies-{{ checksum "package.json" }}
 
       # run linter and tests!
-      - run: npm ci:validate
+      - run: npm run ci:validate
