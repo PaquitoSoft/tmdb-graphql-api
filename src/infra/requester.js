@@ -1,10 +1,27 @@
 const qs = require('querystring');
 const _request = require('request');
 const debug = require('debug')('tmdbgs:requester');
+const { store, read } = require('./cache');
 
 class Requester {
 	constructor({ host }) {
 		this.host = host;
+	}
+
+	getResponseCacheTtl(response) {
+		let result = null;
+		const cacheControlHeader = response.caseless.get('cache-control');
+
+		if (cacheControlHeader) {
+			const maxAgeDirective = cacheControlHeader
+				.split(',')
+				.map(part => part.trim())
+				.find(part => /^max-age=/.test(part));
+
+			result = maxAgeDirective && maxAgeDirective.split('=')[1];
+		}
+
+		return result;
 	}
 
 	request({
@@ -13,8 +30,16 @@ class Requester {
 		query,
 		body
 	}) {
-		debug(`Requesting URL: ${this.host}${path}${query ? '?' + qs.stringify(query) : ''}`);
+		const fullURL = `${this.host}${path}${query ? '?' + qs.stringify(query) : ''}`;
+		debug(`Requesting URL: ${fullURL}`);
 		return new Promise((resolve, reject) => {
+			
+			const cachedValue = read(fullURL);
+			if (method === 'GET' && cachedValue) {
+				debug(`Serving cached content for URL: ${fullURL}`);
+				return resolve(cachedValue);
+			}
+		
 			_request({
 				url: `${this.host}${path}`,
 				method,
@@ -33,6 +58,12 @@ class Requester {
 					};
 					reject(error);
 				} else {
+					const cacheTtl = this.getResponseCacheTtl(response);
+					if (cacheTtl) {
+						store(fullURL, body, { ttl: cacheTtl });
+					}
+					
+					debug(`Serving fresh content for URL: ${fullURL}`);
 					resolve(body);
 				}
 			});
