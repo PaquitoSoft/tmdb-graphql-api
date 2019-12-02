@@ -26,10 +26,12 @@ class TvShow {
 			External API is returning seasons with specal
 			content with season_number 0.
 			These are not 'normal' episodes seasons so they should 
-			filter apart
+			filter apart.
+			Also, it is returning yet to be aired seasons with no 
+			useful data.
 		*/
 		this.seasons = (tvShowRaw.seasons || [])
-			.filter(s => s.season_number > 0)
+			.filter(s => s.season_number > 0 && !! s.air_date)
 			.map(s => new Season(s));
 		this.cast = castRaw.map(c => new Character(c));
 	}
