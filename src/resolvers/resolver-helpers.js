@@ -1,7 +1,9 @@
-function buildRepository(Repository, { requester, appConfig }) {
+function buildRepository(Repository, { requester, appConfig, database, userId }) {
 	return new Repository({
 		apiKey: appConfig.tmbdApiKey,
-		requester
+		requester,
+		database,
+		userId
 	});
 }
 

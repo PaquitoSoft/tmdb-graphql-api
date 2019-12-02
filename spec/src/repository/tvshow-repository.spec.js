@@ -14,7 +14,17 @@ describe('TvShow Repository', () => {
 	}) {
 		const fixture = loadFixture(fixtureName);
 		const requestFake = sinon.fake.returns(fixture);
-		const result = await buildRepository(TvShowRepository, requestFake)[operationName](operationParams);
+		const result = await buildRepository(
+			TvShowRepository, 
+			{ 
+				requestFake,
+				databaseFake: {
+					collection: () => ({
+						findOne: sinon.fake.returns(null)
+					})
+				}
+			}
+		)[operationName](operationParams);
 
 		operationExpectation({
 			requestFake,

@@ -14,10 +14,12 @@ function loadFixture(name) {
 	return require(join(FIXTURES_FOLDER, name));
 }
 
-function buildRepository(Repository, requestFake) {
+function buildRepository(Repository, { requestFake, databaseFake, userId = 'zzzzzz' }) {
 	return new Repository({ 
 		apiKey: '123456', 
-		requester: { request: requestFake }
+		requester: { request: requestFake },
+		database: databaseFake,
+		userId
 	});
 }
 

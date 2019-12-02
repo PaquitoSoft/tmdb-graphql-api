@@ -75,6 +75,11 @@ const schema = gql`
 		getSimilarsTvShows(tvShowId: Int!, langauge: String): [TvShow]
 		getSeasonDetails(tvShowId: Int!, seasonNumber: Int!, langauge: String): Season
 	}
+
+	type Mutation {
+		saveFavoriteTvShow(tvShowId: Int!): Boolean
+		removeFavoriteTvShow(tvShowId: Int!): Boolean
+	}
 `;
 
 module.exports = schema;

@@ -37,6 +37,30 @@ function getSimilarsTvShows(_, params, context) {
 	return repository.getSimilars({ tvShowId, language });
 }
 
+function saveFavoriteTvShow(_, params, context) {
+	const { tvShowId } = params;
+	const { userId } = context;
+	const repository = buildRepository(TvShowRepository, context);
+
+	if (!userId) {
+		throw Boom.badRequest('No userId received. You must provided it as "userToken" header');
+	}
+	
+	return repository.saveFavorite({ tvShowId });
+}
+
+function removeFavoriteTvShow(_, params, context) {
+	const { tvShowId } = params;
+	const { userId } = context;
+	const repository = buildRepository(TvShowRepository, context);
+	
+	if (!userId) {
+		throw Boom.badRequest('No userId received. You must provided it as "userToken" header');
+	}
+
+	return repository.removeFavorite({ tvShowId });
+}
+
 const tvShowResolvers = {
 	queries: {
 		getTypes,
@@ -44,6 +68,10 @@ const tvShowResolvers = {
 		searchTvShows,
 		getTvShowDetails,
 		getSimilarsTvShows
+	},
+	mutations: {
+		saveFavoriteTvShow,
+		removeFavoriteTvShow
 	}
 };
 

@@ -97,7 +97,7 @@ module.exports = {
         ],
         "indent": "off",
         "indent-legacy": "off",
-        "init-declarations": "error",
+        // "init-declarations": "error",
         "jsx-quotes": "error",
         "key-spacing": "error",
         "keyword-spacing": [
@@ -107,13 +107,13 @@ module.exports = {
                 "before": true
             }
         ],
-        "line-comment-position": "error",
+        // "line-comment-position": "error",
         "linebreak-style": [
             "error",
             "unix"
         ],
-        "lines-around-comment": "error",
-        "lines-around-directive": "error",
+        // "lines-around-comment": "error",
+        // "lines-around-directive": "error",
         "lines-between-class-members": [
             "error",
             "always"
@@ -162,7 +162,7 @@ module.exports = {
         "no-implicit-globals": "error",
         "no-implied-eval": "error",
         "no-import-assign": "error",
-        "no-inline-comments": "error",
+        // "no-inline-comments": "error",
         "no-invalid-this": "error",
         "no-iterator": "error",
         "no-label-var": "error",

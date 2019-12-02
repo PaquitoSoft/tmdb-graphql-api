@@ -1,10 +1,13 @@
+const debug = require('debug')('tmdbgs:tvshow-repository');
 const TvShow = require('../models/tvshow');
 
 class TvShowRepository {
 
-	constructor({ apiKey, requester }) {
+	constructor({ apiKey, requester, database, userId }) {
 		this.apiKey = apiKey;
 		this.requester = requester;
+		this.favoritesCollection = database.collection('favorite');
+		this.userId = userId;
 	}
 
 	async getDetails({ tvShowId, language }) {
@@ -28,11 +31,20 @@ class TvShowRepository {
 			})
 		);
 
-		const [tvShowRaw, { cast: castRaw } ] = await Promise.all(
-			[tvShowDetailRequest(), tvShowCastRequest()]
+		const tvShowIsFavoriteQuery = async () => {
+			const result = this.favoritesCollection.findOne({
+				tvShowId,
+				userId: this.userId
+			});
+			debug('tvShowIsFavoriteQuery: ' + result);
+			return false;
+		};
+
+		const [tvShowRaw, { cast: castRaw }, isFavorite ] = await Promise.all(
+			[tvShowDetailRequest(), tvShowCastRequest(), tvShowIsFavoriteQuery()]
 		);
 
-		return new TvShow(tvShowRaw, castRaw);
+		return new TvShow({ tvShowRaw, castRaw, isFavorite });
 	}
 
 	async searchTvShows({ searchTerm, language, page = 1 }) {
@@ -46,7 +58,7 @@ class TvShowRepository {
 			}
 		});
 
-		return result.results.map(t => new TvShow(t));
+		return result.results.map(t => new TvShow({ tvShowRaw: t }));
 	}
 
 	async getByType({ type, language, page = 1 }) {
@@ -59,7 +71,7 @@ class TvShowRepository {
 			}
 		});
 		
-		return result.results.map(t => new TvShow(t));
+		return result.results.map(t => new TvShow({ tvShowRaw: t }));
 	}
 
 	async getSimilars({ tvShowId, language, page = 1 }) {
@@ -72,7 +84,21 @@ class TvShowRepository {
 			}
 		});
 
-		return result.results.map(t => new TvShow(t));
+		return result.results.map(t => new TvShow({ tvShowRaw: t }));
+	}
+
+	saveFavorite({ tvShowId }) {
+		return this.favoritesCollection.insertOne({ 
+			tvShowId, 
+			userId: this.userId 
+		});
+	}
+
+	removeFavorite({ tvShowId }) {
+		return this.favoritesCollection.deleteOne({
+			tvShowId, 
+			userId: this.userId
+		});
 	}
 }
 

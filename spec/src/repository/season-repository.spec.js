@@ -13,7 +13,7 @@ describe('Season Repository', () => {
 			const language = 'en';
 			const fixture = loadFixture('season-detail.json');
 			const requestFake = sinon.fake.returns(fixture);
-			const repository = buildRepository(SeasonRepository, requestFake);
+			const repository = buildRepository(SeasonRepository, { requestFake });
 
 			const season = await repository.getDetails({ tvShowId, seasonNumber, language });
 

@@ -4,7 +4,7 @@ const Season = require('./season');
 const Character = require('./character');
 
 class TvShow {
-	constructor(tvShowRaw, castRaw = []) {
+	constructor({ tvShowRaw, castRaw = [], isFavorite }) {
 		this.id = tvShowRaw.id;
 		this.name = tvShowRaw.name;
 		this.overview = tvShowRaw.overview;
@@ -31,9 +31,10 @@ class TvShow {
 			useful data.
 		*/
 		this.seasons = (tvShowRaw.seasons || [])
-			.filter(s => s.season_number > 0 && !! s.air_date)
+			.filter(s => s.season_number > 0 && !!s.air_date)
 			.map(s => new Season(s));
 		this.cast = castRaw.map(c => new Character(c));
+		this.isFavorite = isFavorite;
 	}
 }
 
