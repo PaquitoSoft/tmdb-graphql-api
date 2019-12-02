@@ -22,7 +22,15 @@ class TvShow {
 		this.popularity = tvShowRaw.popularity;
 		this.votesCount = tvShowRaw.vote_count;
 		this.votesAverage = tvShowRaw.vote_average;
-		this.seasons = (tvShowRaw.seasons || []).map(s => new Season(s));
+		/*
+			External API is returning seasons with specal
+			content with season_number 0.
+			These are not 'normal' episodes seasons so they should 
+			filter apart
+		*/
+		this.seasons = (tvShowRaw.seasons || [])
+			.filter(s => s.season_number > 0)
+			.map(s => new Season(s));
 		this.cast = castRaw.map(c => new Character(c));
 	}
 }
