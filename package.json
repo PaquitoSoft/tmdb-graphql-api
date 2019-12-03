@@ -1,6 +1,6 @@
 {
   "name": "tmdb-graphql",
-  "version": "1.5.1",
+  "version": "1.6.0",
   "description": "The Movie DB GraphQL server",
   "main": "index.js",
   "scripts": {
