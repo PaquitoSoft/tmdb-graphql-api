@@ -20,7 +20,8 @@ describe('TvShow Repository', () => {
 				requestFake,
 				databaseFake: {
 					collection: () => ({
-						findOne: sinon.fake.returns(null)
+						findOne: sinon.fake.returns(null),
+						find: sinon.fake.returns({ toArray: () => [] })
 					})
 				}
 			}
