@@ -1,4 +1,4 @@
-const debug = require('debug')('tmdbgs:tvshow-repository');
+// const debug = require('debug')('tmdbgs:tvshow-repository');
 const TvShow = require('../models/tvshow');
 
 class TvShowRepository {
@@ -8,6 +8,13 @@ class TvShowRepository {
 		this.requester = requester;
 		this.favoritesCollection = database.collection('favorite');
 		this.userId = userId;
+	}
+
+	async _getUserFavoriteTvShows() {
+		const queryResult = await this.favoritesCollection.find({
+			userId: this.userId
+		}).toArray();
+		return queryResult.map(item => item.tvShowId);
 	}
 
 	async getDetails({ tvShowId, language }) {
@@ -47,43 +54,73 @@ class TvShowRepository {
 	}
 
 	async searchTvShows({ searchTerm, language, page = 1 }) {
-		const result = await this.requester.request({
-			path: `/3/search/tv`,
-			query: {
-				api_key: this.apiKey,
-				query: encodeURIComponent(searchTerm),
-				language,
-				page
-			}
-		});
+		const searchRequest = () => (
+			this.requester.request({
+				path: `/3/search/tv`,
+				query: {
+					api_key: this.apiKey,
+					query: encodeURIComponent(searchTerm),
+					language,
+					page
+				}
+			})
+		);
 
-		return result.results.map(t => new TvShow({ tvShowRaw: t }));
+		const favoritesQuery = () => this._getUserFavoriteTvShows();
+
+		const [searchResultsRaw, favoriteTvshows ] = await Promise.all(
+			[searchRequest(), favoritesQuery()]
+		);
+
+		return searchResultsRaw.results.map(
+			t => new TvShow({ tvShowRaw: t, isFavorite: favoriteTvshows.includes(t.id) })
+		);
 	}
 
 	async getByType({ type, language, page = 1 }) {
-		const result = await this.requester.request({
-			path: `/3/tv/${type}`,
-			query: {
-				api_key: this.apiKey,
-				language,
-				page
-			}
-		});
-		
-		return result.results.map(t => new TvShow({ tvShowRaw: t }));
+		const getByTypeRequest = () => (
+			this.requester.request({
+				path: `/3/tv/${type}`,
+				query: {
+					api_key: this.apiKey,
+					language,
+					page
+				}
+			})
+		);
+
+		const favoritesQuery = () => this._getUserFavoriteTvShows();
+
+		const [getByTypeResultsRaw, favoriteTvshows ] = await Promise.all(
+			[getByTypeRequest(), favoritesQuery()]
+		);
+
+		return getByTypeResultsRaw.results.map(
+			t => new TvShow({ tvShowRaw: t, isFavorite: favoriteTvshows.includes(t.id) })
+		);
 	}
 
 	async getSimilars({ tvShowId, language, page = 1 }) {
-		const result = await this.requester.request({
-			path: `/3/tv/${tvShowId}/similar`,
-			query: {
-				api_key: this.apiKey,
-				language,
-				page
-			}
-		});
+		const similarsQuery = () => (
+			this.requester.request({
+				path: `/3/tv/${tvShowId}/similar`,
+				query: {
+					api_key: this.apiKey,
+					language,
+					page
+				}
+			})
+		);
 
-		return result.results.map(t => new TvShow({ tvShowRaw: t }));
+		const favoritesQuery = () => this._getUserFavoriteTvShows();
+
+		const [similarsResultsRaw, favoriteTvshows ] = await Promise.all(
+			[similarsQuery(), favoritesQuery()]
+		);
+
+		return similarsResultsRaw.results.map(
+			t => new TvShow({ tvShowRaw: t, isFavorite: favoriteTvshows.includes(t.id) })
+		);
 	}
 
 	async saveFavorite({ tvShowId }) {
