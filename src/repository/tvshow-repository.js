@@ -32,12 +32,11 @@ class TvShowRepository {
 		);
 
 		const tvShowIsFavoriteQuery = async () => {
-			const result = this.favoritesCollection.findOne({
+			const dbDocument = await this.favoritesCollection.findOne({
 				tvShowId,
 				userId: this.userId
 			});
-			debug('tvShowIsFavoriteQuery: ' + result);
-			return false;
+			return !!dbDocument;
 		};
 
 		const [tvShowRaw, { cast: castRaw }, isFavorite ] = await Promise.all(
@@ -87,18 +86,30 @@ class TvShowRepository {
 		return result.results.map(t => new TvShow({ tvShowRaw: t }));
 	}
 
-	saveFavorite({ tvShowId }) {
-		return this.favoritesCollection.insertOne({ 
+	async saveFavorite({ tvShowId }) {
+		let dbResult = await this.favoritesCollection.findOne({
+			tvShowId,
+			userId: this.userId
+		});
+
+		if (dbResult) {
+			throw new Error('The TvShow is already a favorite one foe the user.');
+		}
+
+		dbResult = await this.favoritesCollection.insertOne({ 
 			tvShowId, 
 			userId: this.userId 
 		});
+		
+		return dbResult.result.ok === 1;
 	}
 
-	removeFavorite({ tvShowId }) {
-		return this.favoritesCollection.deleteOne({
+	async removeFavorite({ tvShowId }) {
+		const dbResult = await this.favoritesCollection.deleteOne({
 			tvShowId, 
 			userId: this.userId
 		});
+		return dbResult.result.ok === 1;
 	}
 }
 

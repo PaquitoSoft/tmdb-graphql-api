@@ -18,6 +18,7 @@ const schema = gql`
 		popularity: Float
 		votesCount: Int
 		votesAverage: Float
+		isFavorite: Boolean
 		seasons: [Season]
 		cast: [Character]
 	}
