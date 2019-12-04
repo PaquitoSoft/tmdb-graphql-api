@@ -68,6 +68,15 @@ const schema = gql`
 		value: String
 	}
 
+	type ImagesConfig {
+		baseUrl: String
+		backdropSizes: [String]
+		logoSizes: [String]
+		posterSizes: [String]
+		profileSizes: [String]
+		stillSizes: [String]
+	}
+
 	type Query {
 		searchTvShows(searchTerm: String!, language: String, page: Int): [TvShow]
 		getTypes: [TvShowType]
@@ -75,6 +84,7 @@ const schema = gql`
 		getTvShowDetails(tvShowId: Int!, language: String): TvShow
 		getSimilarsTvShows(tvShowId: Int!, langauge: String): [TvShow]
 		getSeasonDetails(tvShowId: Int!, seasonNumber: Int!, langauge: String): Season
+		getImagesConfiguration: ImagesConfig
 	}
 
 	type Mutation {
