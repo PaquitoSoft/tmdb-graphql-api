@@ -1,7 +1,6 @@
 class ImagesConfig {
 
 	constructor(raw) {
-		console.log(raw);
 		this.baseUrl = raw.secure_base_url; 
 		this.backdropSizes = raw.backdrop_sizes;
 		this.logoSizes = raw.logo_sizes;
