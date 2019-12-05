@@ -2,7 +2,6 @@ const Episode = require('./episode');
 
 class Season {
 	constructor(raw) {
-		const now = Date.now();
 		this.id = raw.id;
 		this.name = raw.name;
 		this.seasonNumber = raw.season_number;		
@@ -15,7 +14,6 @@ class Season {
 			them out.
 		*/
 		this.episodes = (raw.episodes || [])
-			.filter(epi => (new Date(epi.air_date)).getTime() < now)
 			.map(epi => new Episode(epi));
 	}
 }
